@@ -1,0 +1,118 @@
+{
+  "github.com": {
+    "node-red": {
+      "node-red-node-swagger": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "a183fdac2e79700e9b53ccb2b6522ff831aa1cbb"
+        }
+      },
+      "node-red-nodegen": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-21",
+          "commit": "c2ddb74003fc85ffba7982f0333496584f27efdf"
+        }
+      },
+      "node-red-web-nodes": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-21",
+          "commit": "f545cad1044c3a9031d89989626ad2ae0fe9b52a"
+        }
+      },
+      "node-red-dashboard": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "d03a654071a034b343d6d9397e4eaa9f07b09747"
+        }
+      },
+      "node-red-node-test-helper": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "949edd23270b26b261f0f9b6596b548d5f80a6d4"
+        }
+      },
+      "node-red-nodes": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "06a9c48395ab8ba707a0f265162df5c0c81dd74b"
+        }
+      },
+      "node-red-docker": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-21",
+          "commit": "25e3c1096d3d880f8caa27adac684e3533571ed2"
+        }
+      },
+      "node-red-auth-twitter": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "b4a0ac7094f2604b0ba054a55c7c36ed3b542998"
+        }
+      },
+      "node-red-admin": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-21",
+          "commit": "04cb60c855ae0e3cf3d1aaa9aea5883a7e7c4a82"
+        }
+      },
+      "node-red": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-21",
+          "commit": "a3563026a5ad5acb417ba34c7779e876cbc22451"
+        }
+      },
+      "nrlint": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-21",
+          "commit": "d400e51cbeacbace9eff827a9e3fd57c88b13ffd"
+        }
+      },
+      "node-red-ui-nodes": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "8a9f4dbd96a9162dfc4f41af1d82b6c79a4573d1"
+        }
+      },
+      "node-red-library-file-store": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "bccb2be14039900c3d9b98c50aba468aced88db5"
+        }
+      },
+      "node-red-debugger": {
+        "previous": [],
+        "current": {
+          "score": 2.5,
+          "date": "2025-07-21",
+          "commit": "03ec572f899038a9386d774c7a86bbd8c7390441"
+        }
+      }
+    }
+  }
+}

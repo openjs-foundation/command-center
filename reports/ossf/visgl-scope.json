@@ -1,0 +1,13 @@
+{
+  "github.com": {
+    "visgl": {
+      "included": [
+        "luma.gl",
+        "deck.gl",
+        "react-map-gl",
+        "loaders.gl"
+      ],
+      "excluded": []
+    }
+  }
+}

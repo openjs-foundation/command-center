@@ -1,0 +1,110 @@
+{
+  "github.com": {
+    "requirejs": {
+      "almond": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "e6bf65a4ee84da35f189c03e5d4e9511d74035e0"
+        }
+      },
+      "requirejs": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "945ae6b41ef81851a030d93759bd36ac75a39958"
+        }
+      },
+      "text": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "3f9d4c19b3a1a3c6f35650c5788cbea1db93197a"
+        }
+      },
+      "alameda": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-21",
+          "commit": "3d3c32c73cfb4ceb83514f1e67c09ea2f618898b"
+        }
+      },
+      "xrayquire": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "ca32cdec501542fe48cfd13a9a08a8f3709822da"
+        }
+      },
+      "i18n": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "6ef197793a713a21f2e74f98e372c161aad3490f"
+        }
+      },
+      "domReady": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "d85bdc38a6df868ead52ab3e80715aaf60e68765"
+        }
+      },
+      "require-cs": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "72ba9e7c855a447622bd81474950862639d0a0c2"
+        }
+      },
+      "r.js": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-21",
+          "commit": "1874a29ad51a395703629e3aece5d094a791b7ea"
+        }
+      },
+      "prim": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "b9b96c21e93d0af47dfe97a378adf431d927a357"
+        }
+      },
+      "cajon": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "1622cf562e655e9cbf16b07b523ca0a280f2a113"
+        }
+      },
+      "requirejs-bower": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "793a3ca453ab90d41efdc90f1288ccdaba18c4d5"
+        }
+      },
+      "alameda-prim": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "4a7c2fc03f8f94b0d42c617c2c18fd4b4aa46b7c"
+        }
+      }
+    }
+  }
+}

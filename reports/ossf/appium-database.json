@@ -1,0 +1,430 @@
+{
+  "github.com": {
+    "appium": {
+      "android-apidemos": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-21",
+          "commit": "062ae9f134daf4136c0a1a1d28342adef7e6c11c"
+        }
+      },
+      "ruby_console": {
+        "previous": [
+          {
+            "score": 5.7,
+            "date": "2025-07-21",
+            "commit": "e79b7df3083f1fadd2866b9a15450c51d4cffa1f"
+          }
+        ],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "177012fb1f5775e47a6583fa45e847ba13a2744c"
+        }
+      },
+      "io.appium.gappium.sampleapp": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "5d9ecaf6b3135e8f0216ba4da152445accd9f83d"
+        }
+      },
+      "ios-test-app": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-21",
+          "commit": "1768792d14f901a82ed8676d54fccf1036e0cd34"
+        }
+      },
+      "python-client": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-21",
+          "commit": "d43a190cc99dcae31f13c074b7f7ac9e7552f9d9"
+        }
+      },
+      "appium": {
+        "previous": [
+          {
+            "score": 5.7,
+            "date": "2025-07-21",
+            "commit": "c8ea786650a1114b6060e65f4167a8e52679c0cb"
+          }
+        ],
+        "current": {
+          "score": 5.6,
+          "date": "2025-07-28",
+          "commit": "70f22a4b9f66a53da266991f9cdc5b9cb8ab49a4"
+        }
+      },
+      "java-client": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-21",
+          "commit": "db431d80a0d50aac357a9ff70a735331fad8dd4f"
+        }
+      },
+      "appium-adb": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-21",
+          "commit": "b181460f9619238dd1b0fd644c6df9a377e8fa88"
+        }
+      },
+      "ruby_lib": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-21",
+          "commit": "d9df35303244433576026b17db1388a1b1135b05"
+        }
+      },
+      "io.appium.settings": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-21",
+          "commit": "9877b6c94743eee0973a3a803bfec8caf75a59b2"
+        }
+      },
+      "appium-gulp-plugins": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "5083fd79da6561afadc649fde80485a930a339d4"
+        }
+      },
+      "node-simctl": {
+        "previous": [
+          {
+            "score": 5.5,
+            "date": "2025-07-21",
+            "commit": "4d65300224f684930ffdeba462df700a69d2d924"
+          }
+        ],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-28",
+          "commit": "4d65300224f684930ffdeba462df700a69d2d924"
+        }
+      },
+      "appium-chromedriver": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-21",
+          "commit": "c3a553084fa454b1569c24b35f205d55b075fc8b"
+        }
+      },
+      "gps-demo-app": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "35f762af42311a8817f7e6f60687bc02b3618218"
+        }
+      },
+      "appium-package-master": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-21",
+          "commit": "8746fd60f4e54396c7916f35bdf2459622c0b83d"
+        }
+      },
+      "appium-support": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "f52945ac2daa2ea4e01d0434ea5a97c2a0963c52"
+        }
+      },
+      "node-teen_process": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-21",
+          "commit": "c081097025d1c89be9e4bee5a7f21fc16367a3ad"
+        }
+      },
+      "deviceconsole": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "88bbc9a5a45fe8a799b8dd61a9afabd9a9603d6b"
+        }
+      },
+      "toggle-test-app": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "6eaa6957044b4baccd6be0c4ae263fef459e12a3"
+        }
+      },
+      "sample-apps": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "0e92532585431d3b362c1ff12c65b54936fbe26f"
+        }
+      },
+      "appium-ios-simulator": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-21",
+            "commit": "da6fe10c64c774bb256f03ef144f3f71bd4f244b"
+          }
+        ],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "da6fe10c64c774bb256f03ef144f3f71bd4f244b"
+        }
+      },
+      "appium-xcuitest-driver": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-21",
+          "commit": "adf3996229fef248fca8224189dfed6d9e6a8533"
+        }
+      },
+      "appium-base-driver": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2025-07-21",
+          "commit": "025f69ece3b810e85385841ea633012a757b15f5"
+        }
+      },
+      "ios-webview-app": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "387016b68caf2bc124654759e321ab8dad273dca"
+        }
+      },
+      "appium-fake-driver": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-21",
+          "commit": "0adfd4e824d1b774bb15746d0747839efa640bb4"
+        }
+      },
+      "appium-uiautomator2-server": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-21",
+          "commit": "1e4aeb66552d3de7de0b714e4ee61597010ecc5b"
+        }
+      },
+      "appium-uiautomator2-driver": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2025-07-21",
+          "commit": "237cfb19b93ed990aedb8b5ece0a9d278176f2c6"
+        }
+      },
+      "appium-xcode": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-21",
+          "commit": "7ab3ad7873390dde64e3943205a0ee8a8d9a1905"
+        }
+      },
+      "packweb": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-21",
+          "commit": "00c49f1b0916f82e1fae0b4e86ba7bfdb3c8e4ea"
+        }
+      },
+      "ios-uicatalog": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-21",
+          "commit": "af1c7358e2b455ff99c25e34466212cbc86fbce6"
+        }
+      },
+      "eslint-config-appium": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-21",
+          "commit": "3ddee4f305f5353cbbcdf275c31833ce1b210af5"
+        }
+      },
+      "WebDriverAgent": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-21",
+          "commit": "3067e1d02ce2ec2a95ef0a63e6ecd8fa71b49f5e"
+        }
+      },
+      "appium-android-driver": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-21",
+          "commit": "36fe677cb1eb1ff7cc38f3d2422d6e42635f020b"
+        }
+      },
+      "appium-doctor": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "9036a26479dc6dbd1b98b76b0f1b2ceefc41102d"
+        }
+      },
+      "appium-windows-driver": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2025-07-21",
+          "commit": "4d9fd1c2000eb7fc4e2cb3eeba27e8e1c742e4cf"
+        }
+      },
+      "appium-test-support": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-21",
+          "commit": "1373161bdf9c97085e374e360a098879ab2feaf7"
+        }
+      },
+      "appium-safari-driver": {
+        "previous": [
+          {
+            "score": 5.4,
+            "date": "2025-07-21",
+            "commit": "0794316c1c502417bc0e3f041be20b42c610160f"
+          }
+        ],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "0794316c1c502417bc0e3f041be20b42c610160f"
+        }
+      },
+      "appium-desktop": {
+        "previous": [],
+        "current": {
+          "score": 2.5,
+          "date": "2025-07-21",
+          "commit": "12a988aa08b9822e97056a09486c9bebb3aad8fe"
+        }
+      },
+      "appium-remote-debugger": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2025-07-21",
+          "commit": "c7e1dcf6c5d088c444857b49ef28db19c328422c"
+        }
+      },
+      "appium-espresso-driver": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-21",
+          "commit": "4c19b872f3aae70538530b268dcf889c56a976a5"
+        }
+      },
+      "appium-gui-libs": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "5239eebaf0eab9078d9a0c50787bde30ecaf2c81"
+        }
+      },
+      "appium-mac2-driver": {
+        "previous": [
+          {
+            "score": 5.3,
+            "date": "2025-07-21",
+            "commit": "4aabb7c90978d5bd0960d887ce91909dcf314d21"
+          }
+        ],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "4aabb7c90978d5bd0960d887ce91909dcf314d21"
+        }
+      },
+      "appium-idb": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "b84e0757ba2bd3f52bb02b42684cec4793e07eee"
+        }
+      },
+      "mitmproxy-java": {
+        "previous": [
+          {
+            "score": 4.1,
+            "date": "2025-07-21",
+            "commit": "01aae080fd64e2f9e2e90f304c43dabaf6d17a4d"
+          }
+        ],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "01aae080fd64e2f9e2e90f304c43dabaf6d17a4d"
+        }
+      },
+      "appium-ios-device": {
+        "previous": [
+          {
+            "score": 6,
+            "date": "2025-07-21",
+            "commit": "d5412a4d5b6e999c8df8f3615c52d7dcafa562cb"
+          }
+        ],
+        "current": {
+          "score": 5.9,
+          "date": "2025-07-28",
+          "commit": "d5412a4d5b6e999c8df8f3615c52d7dcafa562cb"
+        }
+      },
+      "appium-mac-driver": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-21",
+          "commit": "8f6f2e6cf80e933f90c2cb579c326cbc18fd8b98"
+        }
+      },
+      "appium-geckodriver": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-21",
+          "commit": "c3eea1ba3610ba712caa964ac602d6e2c7bbc80f"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "github.com": {
+    "lodash": {
+      "lodash-webpack-plugin": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-21",
+          "commit": "c1bacb3ed4b8e60ee1efecaf87f4252d62b3df97"
+        }
+      },
+      "lodash-doc-globals": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-21",
+          "commit": "eaf1059ef11b5191fdc774ee20405c7e494113af"
+        }
+      },
+      "babel-plugin-lodash": {
+        "previous": [],
+        "current": {
+          "score": 1.8,
+          "date": "2025-07-21",
+          "commit": "7d2342a3b849c3c8ef3b2d904b7e2394205466ff"
+        }
+      },
+      "lodash": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-21",
+          "commit": "8a26eb42adb303f4adc7ef56e300f14c5992aa68"
+        }
+      }
+    }
+  }
+}

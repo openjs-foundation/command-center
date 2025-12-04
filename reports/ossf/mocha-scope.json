@@ -1,0 +1,16 @@
+{
+  "github.com": {
+    "mochajs": {
+      "included": [
+        "mocha",
+        "mowatch",
+        "sauce-connect-launcher",
+        "karma-sauce-launcher",
+        "karma-mocha",
+        "mocha-docdash",
+        "contributors"
+      ],
+      "excluded": []
+    }
+  }
+}

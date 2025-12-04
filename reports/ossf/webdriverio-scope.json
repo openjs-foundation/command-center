@@ -1,0 +1,13 @@
+{
+  "github.com": {
+    "webdriverio": {
+      "included": [
+        "webdriverio",
+        "cucumber-boilerplate",
+        "webdriverio-schematics",
+        "expect-webdriverio"
+      ],
+      "excluded": []
+    }
+  }
+}

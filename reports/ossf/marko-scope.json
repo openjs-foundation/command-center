@@ -1,0 +1,26 @@
+{
+  "github.com": {
+    "marko-js": {
+      "included": [
+        "marko-migrate",
+        "marko",
+        "utils",
+        "language-server",
+        "tags",
+        "cli",
+        "webpack",
+        "rollup",
+        "fixture-snapshots",
+        "express",
+        "testing-library",
+        "migrate-v3-widget",
+        "jest",
+        "vite",
+        "ssr-to-html",
+        "tags-api-preview",
+        "fastify"
+      ],
+      "excluded": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "github.com": {
+    "jerryscript-project": {
+      "included": [
+        "iotjs",
+        "jerryscript"
+      ],
+      "excluded": []
+    }
+  }
+}

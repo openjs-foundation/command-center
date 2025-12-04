@@ -1,0 +1,206 @@
+{
+  "github.com": {
+    "webpack": {
+      "tapable": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-07",
+          "commit": "4b099d8745bb57a9169d0e53a9a3398d316f872d"
+        }
+      },
+      "analyse": {
+        "previous": [],
+        "current": {
+          "score": 1.6,
+          "date": "2025-07-07",
+          "commit": "57f51903e21e929cf4428033608b9f3b791e6fe9"
+        }
+      },
+      "webpack": {
+        "previous": [
+          {
+            "score": 5.9,
+            "date": "2025-07-07",
+            "commit": "ad1e3b46f46b9acd5bb9c377afcdc101338d5c96"
+          }
+        ],
+        "current": {
+          "score": 6,
+          "date": "2025-07-28",
+          "commit": "de79ee457eb921e6e1b186c90c65590789a013ca"
+        }
+      },
+      "webpack-dev-server": {
+        "previous": [
+          {
+            "score": 6.5,
+            "date": "2025-07-07",
+            "commit": "6afffac308c0505a6fd966d82149c3d8667960f6"
+          }
+        ],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "64e4afee9d29202ec14971ce97aff4d6e2cae2a9"
+        }
+      },
+      "node-libs-browser": {
+        "previous": [],
+        "current": {
+          "score": 2.4,
+          "date": "2025-07-07",
+          "commit": "214057f118bad5da8b99db33fd16a5b6ceb42d9b"
+        }
+      },
+      "loader-utils": {
+        "previous": [
+          {
+            "score": 4.9,
+            "date": "2025-07-07",
+            "commit": "06fcc0aac9928779d5e2e0fdc58dddd5d4c49ea3"
+          }
+        ],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "06fcc0aac9928779d5e2e0fdc58dddd5d4c49ea3"
+        }
+      },
+      "webpack-dev-middleware": {
+        "previous": [],
+        "current": {
+          "score": 6.8,
+          "date": "2025-07-07",
+          "commit": "0fdeeaa989e14feb0f136539ddfdf484b86762f8"
+        }
+      },
+      "core": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-07",
+          "commit": "d0dee8a587e2c7b94c1ae14cd380c4864f3f1f32"
+        }
+      },
+      "watchpack": {
+        "previous": [
+          {
+            "score": 4.3,
+            "date": "2025-07-07",
+            "commit": "332b55016b7c32dab4134f793ca71a5141bd10c1"
+          }
+        ],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "332b55016b7c32dab4134f793ca71a5141bd10c1"
+        }
+      },
+      "enhanced-resolve": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2025-07-07",
+          "commit": "0bf45033f4cb12e034819c4e420ca12965619fc8"
+        }
+      },
+      "fastparse": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-07",
+          "commit": "85d8fa8a49e0a4a08cf884ec854f0d834cab817a"
+        }
+      },
+      "schema-utils": {
+        "previous": [
+          {
+            "score": 4.5,
+            "date": "2025-07-07",
+            "commit": "f9baee8153ef042fdf85ee20d8538fb31ddaf291"
+          }
+        ],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-28",
+          "commit": "f332292a3f6ecd21c53ec5e02ab2fefde87236b0"
+        }
+      },
+      "webpack-sources": {
+        "previous": [
+          {
+            "score": 4.7,
+            "date": "2025-07-07",
+            "commit": "1b98c0f26810925d66d56088a07dc9a1a43e63cd"
+          }
+        ],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-28",
+          "commit": "1b98c0f26810925d66d56088a07dc9a1a43e63cd"
+        }
+      },
+      "loader-runner": {
+        "previous": [
+          {
+            "score": 3.9,
+            "date": "2025-07-07",
+            "commit": "6bbadc71888479df9b21b02fa089648659594a89"
+          }
+        ],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "6bbadc71888479df9b21b02fa089648659594a89"
+        }
+      },
+      "webpack.js.org": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-07",
+          "commit": "d4ceaf5356ec10b30e21846c0556ea6570a17cee"
+        }
+      },
+      "source-list-map": {
+        "previous": [],
+        "current": {
+          "score": 2.5,
+          "date": "2025-07-07",
+          "commit": "4a21840d3a4162e2f94dcb444476aa6f08d46fe8"
+        }
+      },
+      "webpack-cli": {
+        "previous": [
+          {
+            "score": 6.1,
+            "date": "2025-07-07",
+            "commit": "71edec3d2c1645c94b1d7b31ba6bf743dc9747e9"
+          }
+        ],
+        "current": {
+          "score": 5.6,
+          "date": "2025-07-28",
+          "commit": "b2db9e9a26d643a68d9ec71cea2d2b799f04cfca"
+        }
+      },
+      "github-org-overview": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-07",
+          "commit": "ce0633595766a75d6cb30aac88364b7f236f4aac"
+        }
+      },
+      "memory-fs": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-07",
+          "commit": "70fff592f872559146749f12d0e6e8e62510a2dc"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "github.com": {
+    "node-red": {
+      "included": [
+        "node-red-nodes",
+        "node-red-admin",
+        "node-red-node-swagger",
+        "node-red",
+        "node-red-dashboard",
+        "node-red-web-nodes",
+        "node-red-auth-twitter",
+        "node-red-nodegen",
+        "node-red-docker",
+        "node-red-node-test-helper",
+        "node-red-ui-nodes",
+        "nrlint",
+        "node-red-debugger",
+        "node-red-library-file-store"
+      ],
+      "excluded": []
+    }
+  }
+}

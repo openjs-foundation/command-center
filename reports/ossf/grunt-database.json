@@ -1,0 +1,374 @@
+{
+  "github.com": {
+    "gruntjs": {
+      "grunt-contrib-handlebars": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "a03b19afecc8658cdefe8f73504ce258350a9d3f"
+        }
+      },
+      "grunt-contrib-compress": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "205f6ba41a0bff3499ffbcd27334166809687bbd"
+        }
+      },
+      "grunt": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-28",
+          "commit": "aa15bdc5b435e2938744658dec31ec29c3109afc"
+        }
+      },
+      "grunt-contrib-yuidoc": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "89d31c5ed1f5120ee606595014b9c9036e69c83a"
+        }
+      },
+      "grunt-contrib-clean": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "230534cae933e90f494e904fe8ac2ff748b05657"
+        }
+      },
+      "grunt-contrib-stylus": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "fd56960cdff71c3615aa77db0a7866341a3e5645"
+        }
+      },
+      "grunt-contrib-cssmin": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "ec24cfd2f9e95c57ab66f96bdb028dfc6adb722a"
+        }
+      },
+      "grunt-lib-contrib": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "da26dbcc9e7891efbcc8d888c102d89fce5871b2"
+        }
+      },
+      "grunt-contrib": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "5933f84a47eecd577902403493dd542a99f530ae"
+        }
+      },
+      "grunt-contrib-less": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "606c7e5e8d942c0e9fc8dc3ca15d811c961b88ae"
+        }
+      },
+      "grunt-contrib-copy": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "1a02e2cd2f25bea561c27e8198068e9c952d4ca2"
+        }
+      },
+      "grunt-init-commonjs-sample": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "728199ea46f281d69432ddfc01e4497e651c86f6"
+        }
+      },
+      "grunt-contrib-uglify": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "7c67e4f5b1787fcaae6f0c8072b55809fda7ff82"
+        }
+      },
+      "grunt-contrib-requirejs": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "0c3e99f689a95102deb76a7e86daf4737f791afc"
+        }
+      },
+      "grunt-contrib-coffee": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-28",
+          "commit": "f440ccea1194e18f28acf4101ebf026664628a46"
+        }
+      },
+      "grunt-contrib-sass": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-28",
+          "commit": "19c9ec3f3fc7683184b1093fa6b977f2922a3576"
+        }
+      },
+      "grunt-contrib-pug": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-28",
+          "commit": "d99773197d6f6e3ed819565e29c2e45aeaac7daa"
+        }
+      },
+      "grunt-contrib-jst": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "1f39d9f42f6fd081704cfbc88c260a8870161018"
+        }
+      },
+      "grunt-contrib-watch": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "fc8458ee3434a9d6c30b4177b5c17d02dbcc83fc"
+        }
+      },
+      "grunt-contrib-compass": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "f65e67c425cf76f067447bcf69e6cc374400df80"
+        }
+      },
+      "grunt-lib-legacyhelpers": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-28",
+          "commit": "8fb3eabfcaa45e93e7195a7278a5d4d594979edf"
+        }
+      },
+      "grunt-contrib-livereload": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-28",
+          "commit": "864435e25bd284277823caa983f51a87acb4a3ea"
+        }
+      },
+      "grunt-contrib-internal": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-28",
+          "commit": "bdb86a62dbc133599bb35ba50dbf9af7faa852c3"
+        }
+      },
+      "grunt-contrib-imagemin": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-28",
+          "commit": "beefd1a6436dec543b039d145cac62b016033acd"
+        }
+      },
+      "grunt-contrib-qunit": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-28",
+          "commit": "efc2ae0de613b81ed0e8ffdef9c0a7ce2249e0ee"
+        }
+      },
+      "grunt-contrib-connect": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-28",
+          "commit": "763c0c4962e308167ef951f969482b699d5cd752"
+        }
+      },
+      "grunt-contrib-concat": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-28",
+          "commit": "3ab7d8761ae5d4d131abd5a1c56275270fd7a706"
+        }
+      },
+      "grunt-init": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "cbec886f26dce52d19c828df3fed031ce9767663"
+        }
+      },
+      "grunt-contrib-jshint": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "71ef4e79c6e6f9fd20ea834e28ae3b32b6e7ef3d"
+        }
+      },
+      "grunt-contrib-htmlmin": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-28",
+          "commit": "8105158722e473adb8d85e7bc2e59b15a8b127ef"
+        }
+      },
+      "grunt-contrib-nodeunit": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-28",
+          "commit": "aae16994f488ad30da443d76460075d49640a745"
+        }
+      },
+      "grunt-legacy-log-utils": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "331a476ecb24ee8e443c62765d1fb5cd2f8c7fad"
+        }
+      },
+      "grunt-contrib-mincss": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "2e84cc55ab2d2ae720690f4ecccfa9aa4a4464cf"
+        }
+      },
+      "grunt-legacy-util": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-28",
+          "commit": "03900b40a49a273fda348b311dbe85792b38c612"
+        }
+      },
+      "grunt-init-gruntplugin": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "03c1e3910192f177017b8c3b6c348244e1e18811"
+        }
+      },
+      "grunt-cli": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "8c791efc931fa8cf80cc98d09d3e20c36501fc0f"
+        }
+      },
+      "grunt-lib-phantomjs": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "a43ff77f1c42b302fa16b4a491d77311a517a119"
+        }
+      },
+      "grunt-contrib-symlink": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "be3ea5ace79dcd01b78de73aea88cb48873c2afa"
+        }
+      },
+      "grunt-contrib-csslint": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "faac6697f04f24eaea058a8cf801a298635145ba"
+        }
+      },
+      "grunt-contrib-jasmine": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "10775ed05ca9571266c490f36be01fdb6af2bf11"
+        }
+      },
+      "js-liftup": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-28",
+          "commit": "8ff9f37c8647685ae177d44867c860bf6ab20bb6"
+        }
+      },
+      "grunt-next": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-28",
+          "commit": "48c8273ab94d96949fd6f8a6ab63dec488fec32b"
+        }
+      },
+      "grunt-legacy-log": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "bb9c2804ea1ddf127b3bf11d3da84f5950acc537"
+        }
+      },
+      "grunt-known-options": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "897166a955c4688f0233144193bbbbb49f3fcdc8"
+        }
+      },
+      "grunt-legacy-config": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "1d63e59d89f8cb9551fc92207712fa2e8d169e3d"
+        }
+      },
+      "nodeunit-x": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-28",
+          "commit": "4adb46dba3d2f3ebb393a7fab9ccb95d3547f285"
+        }
+      }
+    }
+  }
+}

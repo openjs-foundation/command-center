@@ -1,0 +1,27 @@
+{
+  "github.com": {
+    "ampproject": {
+      "included": [
+        "ampstart",
+        "amp-by-example",
+        "ampbench",
+        "amp-wp",
+        "amphtml",
+        "amp.dev",
+        "samples",
+        "rollup-plugin-closure-compiler",
+        "animations",
+        "amppackager",
+        "amp-toolbox",
+        "worker-dom",
+        "remapping",
+        "amp-sw",
+        "validator-java",
+        "eleventy-plugin-amp",
+        "storybook-addon-amp",
+        "filesize"
+      ],
+      "excluded": []
+    }
+  }
+}

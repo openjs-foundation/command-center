@@ -1,0 +1,14 @@
+{
+  "github.com": {
+    "loopbackio": {
+      "strong-error-handler": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2024-05-09T16:13:16Z",
+          "commit": "633482e152bb5d9f9ed8c6ad832e1407183225d8"
+        }
+      }
+    }
+  }
+}

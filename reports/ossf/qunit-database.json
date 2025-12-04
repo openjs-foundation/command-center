@@ -1,0 +1,30 @@
+{
+  "github.com": {
+    "qunitjs": {
+      "node-qunit": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-21",
+          "commit": "257cafd4e3f7a238c953d42da3633729732f5645"
+        }
+      },
+      "browserstack-runner": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-07-21",
+          "commit": "5ee0c5a2cb0f8d31addcffff9f912ef2260dfea3"
+        }
+      },
+      "qunit": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-21",
+          "commit": "4955dd930e8445a3db46648e7fed396857578e04"
+        }
+      }
+    }
+  }
+}

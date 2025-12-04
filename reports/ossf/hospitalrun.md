@@ -1,0 +1,1 @@
+_No results were found in the Scorecard API._

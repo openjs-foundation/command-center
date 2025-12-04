@@ -1,0 +1,22 @@
+{
+  "github.com": {
+    "requirejs": {
+      "included": [
+        "i18n",
+        "domReady",
+        "r.js",
+        "almond",
+        "requirejs",
+        "text",
+        "require-cs",
+        "alameda",
+        "prim",
+        "xrayquire",
+        "cajon",
+        "alameda-prim",
+        "requirejs-bower"
+      ],
+      "excluded": []
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "github.com": {
+    "dojo": {
+      "routing": {
+        "previous": [],
+        "current": {
+          "score": 2.2,
+          "date": "2025-07-21",
+          "commit": "1e70fe6f8eeedb857d35dade1526378f40ddf3f2"
+        }
+      },
+      "core": {
+        "previous": [],
+        "current": {
+          "score": 2.5,
+          "date": "2025-07-21",
+          "commit": "88d8655fa307297f2c07f5cfb4bb86a2608df062"
+        }
+      },
+      "dijit": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "8ab4cdc2e4bb03d1bca6e76a2a9179dc8c5d846a"
+        }
+      },
+      "dom": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "ad3d2b9a8771a180ff70979bce7299fd9bf8a3ff"
+        }
+      },
+      "loader": {
+        "previous": [],
+        "current": {
+          "score": 2.2,
+          "date": "2025-07-21",
+          "commit": "147cb45a67a4de9a411c388af0047ae8bdd4d5aa"
+        }
+      },
+      "dijit-themes": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "e2303e4c402fb044f03eced8aa8d848dc532c3cd"
+        }
+      },
+      "dojox": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "41184d55a6b6d2b0645238e4ce427c7ac55cf823"
+        }
+      },
+      "util": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "84614ef903d08b0cc681a26eda3173a60ad8f2cd"
+        }
+      },
+      "i18n": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-21",
+          "commit": "e5e2bc9053a835ff5821ccf62c32c25e5f859bac"
+        }
+      },
+      "dojo": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "185a4fb314de482a1b6b5668095b998da9c1b58f"
+        }
+      },
+      "cli-create-app": {
+        "previous": [],
+        "current": {
+          "score": 2.4,
+          "date": "2025-07-21",
+          "commit": "c05b1d9eefa26f7f4a228b6c4ddc99bf914cfa86"
+        }
+      },
+      "cli": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-07-21",
+          "commit": "012eb7936b20156dcc9fc225dbda3a3e67a45f6c"
+        }
+      },
+      "actions": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-21",
+          "commit": "b8382eee83949abb041faabcdca7428a757b41cb"
+        }
+      },
+      "stores": {
+        "previous": [],
+        "current": {
+          "score": 2.2,
+          "date": "2025-07-21",
+          "commit": "0c824ad193a203cdc799101647dd0dbaa382dcb0"
+        }
+      },
+      "app": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-21",
+          "commit": "fefebac5b9e91c4c866f8a8149c414a8eebd4ce0"
+        }
+      },
+      "shim": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-21",
+          "commit": "53ab2e0bd324ac59903bccb65d0e2eab1c3955f4"
+        }
+      },
+      "compose": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-21",
+          "commit": "ed1884f8c567087f43ffda1eced8b5010b597b19"
+        }
+      },
+      "widget-core": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-21",
+          "commit": "280efefdb9f5333a004d3118b603e611e7d9fb0c"
+        }
+      },
+      "typings": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "99595b015a659667c08fd8e4eba0c497c3c9ba5d"
+        }
+      },
+      "grunt-dojo2": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "af374828aeebf0ba8afd778af32757dd67bc706f"
+        }
+      },
+      "static-optimize-plugin": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "6058f46d2b7a8e101683eec6f5a9086964a54a54"
+        }
+      },
+      "grunt-dojo2-extras": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-21",
+          "commit": "d12c73acdb1024e0dd9b520daeb98b8ae22c12a6"
+        }
+      },
+      "cli-test-intern": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-07-21",
+          "commit": "fb429501e1a68f27b941b9105e61a67ddb1948c1"
+        }
+      },
+      "widgets": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-21",
+          "commit": "ecd5d853b4dc932c5d478a7a8b7295f4f5435953"
+        }
+      },
+      "interop": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "1ba289ec21c741886e0f63098862f42d8c702618"
+        }
+      },
+      "streams": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-21",
+          "commit": "9025c24a1c4b97579c7a374062bab8ba657d7565"
+        }
+      },
+      "has": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-21",
+          "commit": "0f2fad08da6218b89f093e7176cdc1185ee50f2d"
+        }
+      },
+      "cli-css-typings": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "f84ae45e5d4dfaf94090debf962ad64874f4282f"
+        }
+      },
+      "cli-create-widget": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "2e0b6555e3d335b206ab19885fde6fea66a73259"
+        }
+      },
+      "interfaces": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "9195ef9746e3fc06d35d6aecc77c929c7d58293b"
+        }
+      },
+      "framework": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-21",
+          "commit": "25792a62cfca9e75a462ae7d88748dcca1e296e6"
+        }
+      },
+      "test-extras": {
+        "previous": [],
+        "current": {
+          "score": 2.2,
+          "date": "2025-07-21",
+          "commit": "73c69a686445ca062765a7c119b1ae82339810cb"
+        }
+      },
+      "cli-build-app": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "7cbcb9699f740849ed54581f3a5831ef7f4ddc6d"
+        }
+      },
+      "cli-create-theme": {
+        "previous": [],
+        "current": {
+          "score": 2.3,
+          "date": "2025-07-21",
+          "commit": "111998eb1f1c07645d173853de8736cd03a5149d"
+        }
+      },
+      "cli-build-widget": {
+        "previous": [],
+        "current": {
+          "score": 1.8,
+          "date": "2025-07-21",
+          "commit": "8a1122d0869b2c58f62ecbfb9de8c5c68870f499"
+        }
+      },
+      "cli-upgrade-app": {
+        "previous": [],
+        "current": {
+          "score": 1.9,
+          "date": "2025-07-21",
+          "commit": "e056ed915cc15ee67a286af1b559e9aacadf3a97"
+        }
+      },
+      "scripts": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "9a826f47a685b1c4daf115325685c216ddc69415"
+        }
+      },
+      "themes": {
+        "previous": [],
+        "current": {
+          "score": 2.1,
+          "date": "2025-07-21",
+          "commit": "94a6086e94d186268a04c018e3009c7bc53810fa"
+        }
+      },
+      "webpack-contrib": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "a6dcaf4e8216715ba4a22153864c168cf3a8e2f4"
+        }
+      },
+      "cli-export-project": {
+        "previous": [],
+        "current": {
+          "score": 2.2,
+          "date": "2025-07-21",
+          "commit": "3197de1fc8dce99ed319304745b34758461cdfab"
+        }
+      },
+      "cli-build-theme": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-07-21",
+          "commit": "c707724061f59218123146e571ef4b46c344cc88"
+        }
+      }
+    }
+  }
+}

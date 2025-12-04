@@ -1,0 +1,94 @@
+{
+  "github.com": {
+    "eslint": {
+      "generator-eslint": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "0570d5e34e86126bc7ffe99610c7550fb4175f52"
+        }
+      },
+      "eslint-transforms": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "a913f4f069f2f86b36a82e3500331e86dfec1a80"
+        }
+      },
+      "eslint-tester": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "e87183b4f9f59d27af4c43318a626d06a054c23a"
+        }
+      },
+      "eslint-visitor-keys": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-28",
+          "commit": "01cc5ccbbf3806fd179fe765a405993c3342778f"
+        }
+      },
+      "eslint-release": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-28",
+          "commit": "72065e5b96ff6e9fc04152c91fd5a6aa1405ed3e"
+        }
+      },
+      "typescript-eslint-parser": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "76b4d42e6ac0b2392d5c523c8e84dfab14599de3"
+        }
+      },
+      "eslint-scope": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-28",
+          "commit": "8038a6309859d379b21d25776fdadba97e600f80"
+        }
+      },
+      "github-action": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "d1e1b4214d5c5f710e8954da5ae8c58e6ab865da"
+        }
+      },
+      "eslint": {
+        "previous": [],
+        "current": {
+          "score": 6.8,
+          "date": "2025-07-28",
+          "commit": "e8a6914a249d036e12494004e586b2a2b6e104d1"
+        }
+      },
+      "doctrine": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "0e8eba7f80b89cc8185541dda4e90c961d1d3553"
+        }
+      },
+      "eslintrc": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-28",
+          "commit": "556e80029f01d07758ab1f5801bc9421bca4b072"
+        }
+      }
+    }
+  }
+}

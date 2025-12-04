@@ -1,0 +1,22 @@
+{
+  "github.com": {
+    "jerryscript-project": {
+      "iotjs": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "02599f35810cfa6ea5495bbc42194ed576b969de"
+        }
+      },
+      "jerryscript": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "355ab24cdc0501e0fdb3a97be69ea94835301eea"
+        }
+      }
+    }
+  }
+}

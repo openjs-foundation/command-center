@@ -1,0 +1,60 @@
+{
+  "github.com": {
+    "nodejs": {
+      "included": [
+        "readable-stream",
+        "node-gyp",
+        "nan",
+        "build",
+        "diagnostics",
+        "node",
+        "docker-node",
+        "changelog-maker",
+        "Release",
+        "nodejs.org",
+        "citgm",
+        "TSC",
+        "llnode",
+        "core-validate-commit",
+        "nodejs-nightly-builder",
+        "nodejs-dist-indexer",
+        "security-wg",
+        "tap2junit",
+        "node-addon-api",
+        "node-v8",
+        "nodejs-latest-linker",
+        "lts-schedule",
+        "node-core-utils",
+        "string_decoder",
+        "llhttp",
+        "llparse",
+        "meeting-picker",
+        "undici",
+        "official-images",
+        "package-maintenance",
+        "uvwasi",
+        "corepack",
+        "gyp-next",
+        "node-auto-test",
+        "api-docs-tooling",
+        "amaro",
+        "web-team",
+        "doc-kit"
+      ],
+      "excluded": [
+        "node-addon-examples",
+        "nodejs.dev",
+        "modules",
+        "i18n",
+        "nodejs-ko",
+        "help",
+        "http-parser",
+        "mentorship",
+        "node-inspect",
+        "node-report",
+        "whatwg-stream",
+        "remark-preset-lint-node"
+      ]
+    }
+  }
+}

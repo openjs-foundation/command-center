@@ -1,0 +1,70 @@
+{
+  "github.com": {
+    "theintern": {
+      "common": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "907c29a659e76c2cb00d02654e2c88895b5c1b14"
+        }
+      },
+      "cli": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "ad04f89221043685c7cf5a53e30d2ea837a65c70"
+        }
+      },
+      "dev": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "314f25ca450215d4d2b4d957cfbe91b55b2e320a"
+        }
+      },
+      "leadfoot": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-21",
+          "commit": "7e8dcda6b339ff6fb37dd1e81762be1ec4c44bb4"
+        }
+      },
+      "intern": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-21",
+          "commit": "f28dd484b1fb78cf27ae0d2072e331982e5b984e"
+        }
+      },
+      "digdug": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-21",
+          "commit": "c4dafbbee612e785d898b32722ad69033099b5b2"
+        }
+      },
+      "intern-a11y": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "afb7ffc1435c07b19261d603d58f0faeaf888409"
+        }
+      },
+      "visual-plugin": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "f09f6384f1b53572ea31d7971886dabc347d0113"
+        }
+      }
+    }
+  }
+}

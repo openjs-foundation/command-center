@@ -1,0 +1,13 @@
+{
+  "github.com": {
+    "lodash": {
+      "included": [
+        "babel-plugin-lodash",
+        "lodash-webpack-plugin",
+        "lodash-doc-globals",
+        "lodash"
+      ],
+      "excluded": []
+    }
+  }
+}

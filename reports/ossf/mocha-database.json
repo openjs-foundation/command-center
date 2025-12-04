@@ -1,0 +1,62 @@
+{
+  "github.com": {
+    "mochajs": {
+      "contributors": {
+        "previous": [],
+        "current": {
+          "score": 1.9,
+          "date": "2025-07-21",
+          "commit": "747c4cb6c0b9bc0a7141dfe08f4f31645c2332e7"
+        }
+      },
+      "mocha-docdash": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-21",
+          "commit": "f1342f1b1742f0d8dca67837a46f73beb6e8c263"
+        }
+      },
+      "mowatch": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-21",
+          "commit": "da77760e8008654014688c2f1a985214d2c594cd"
+        }
+      },
+      "karma-sauce-launcher": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "309950218551e6fc59f94a4c2478af018dc94b5b"
+        }
+      },
+      "sauce-connect-launcher": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "62ff57fe4fc758774e24975c016f8210d526ae4f"
+        }
+      },
+      "mocha": {
+        "previous": [],
+        "current": {
+          "score": 7.3,
+          "date": "2025-07-21",
+          "commit": "15f59805287f4c84ab8d057735a391a795be23f1"
+        }
+      },
+      "karma-mocha": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "3858cbca154b3f59e9ed442f0e87f21ab2f89025"
+        }
+      }
+    }
+  }
+}

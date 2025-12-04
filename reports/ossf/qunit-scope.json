@@ -1,0 +1,12 @@
+{
+  "github.com": {
+    "qunitjs": {
+      "included": [
+        "node-qunit",
+        "qunit",
+        "browserstack-runner"
+      ],
+      "excluded": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "github.com": {
+    "visgl": {
+      "deck.gl": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-20T13:43:34Z",
+          "commit": "fdcacbf1688699a07170f5c636fcebdafc769450"
+        }
+      },
+      "loaders.gl": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-07",
+          "commit": "d74df445180408fd772567ca6a6bbb8d42aa50be"
+        }
+      },
+      "react-map-gl": {
+        "previous": [
+          {
+            "score": 5,
+            "date": "2025-07-07",
+            "commit": "948fd2e4f4156756d2fcee8c2a900cfe55b43608"
+          }
+        ],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-21",
+          "commit": "948fd2e4f4156756d2fcee8c2a900cfe55b43608"
+        }
+      },
+      "luma.gl": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-07",
+            "commit": "63fe3fd0912c83f7c4a012016c57048a250b591f"
+          }
+        ],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-21",
+          "commit": "cab8c9f38118ed29630cfd25df3051e2b2dda895"
+        }
+      }
+    }
+  }
+}

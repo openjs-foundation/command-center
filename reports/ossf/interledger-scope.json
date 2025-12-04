@@ -1,0 +1,11 @@
+{
+  "github.com": {
+    "interledger": {
+      "included": [
+        "jsdoc-template",
+        "rfcs"
+      ],
+      "excluded": []
+    }
+  }
+}

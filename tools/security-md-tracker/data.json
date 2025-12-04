@@ -1,0 +1,280 @@
+{
+  "source": [
+    {
+      "project": "nodejs",
+      "url": "https://raw.githubusercontent.com/nodejs/node/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "Electron",
+      "url": "https://raw.githubusercontent.com/electron/electron/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "jQuery",
+      "url": "https://raw.githubusercontent.com/jquery/jquery/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "Appium",
+      "url": "https://raw.githubusercontent.com/appium/.github/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "Webpack",
+      "url": "https://raw.githubusercontent.com/webpack/webpack/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "Express",
+      "url": "https://raw.githubusercontent.com/expressjs/express/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "Kepler.gl",
+      "url": "https://raw.githubusercontent.com/keplergl/kepler.gl/refs/heads/master/.github/SECURITY.md"
+    },
+    {
+      "project": "Deck.gl",
+      "url": "https://raw.githubusercontent.com/visgl/deck.gl/refs/heads/master/.github/SECURITY.md"
+    },
+    {
+      "project": "Cosmos.gl",
+      "url": "https://raw.githubusercontent.com/cosmosgl/graph/refs/heads/main/.github/SECURITY.md"
+    },
+    {
+      "project": "sizzle (jQuery)",
+      "url": "https://raw.githubusercontent.com/jquery/.github/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "jQuery UI",
+      "url": "https://raw.githubusercontent.com/jquery/jquery-ui/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "HospitalRun",
+      "url": "https://raw.githubusercontent.com/HospitalRun/hospitalrun/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "AMP",
+      "url": "https://raw.githubusercontent.com/ampproject/amphtml/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "eslint",
+      "url": "https://raw.githubusercontent.com/eslint/.github/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "esprima (jQuery)",
+      "url": "https://raw.githubusercontent.com/jquery/.github/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "fastify",
+      "url": "https://raw.githubusercontent.com/fastify/fastify/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "Globalize",
+      "url": "https://raw.githubusercontent.com/globalizejs/globalize/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "Grunt",
+      "url": "https://raw.githubusercontent.com/gruntjs/grunt/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "intern",
+      "url": "https://raw.githubusercontent.com/theintern/intern/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "NativeScript",
+      "url": "https://raw.githubusercontent.com/NativeScript/.github/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "jest",
+      "url": "https://raw.githubusercontent.com/jestjs/jest/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "LoopBack",
+      "url": "https://raw.githubusercontent.com/loopbackio/loopback-next/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "lodash",
+      "url": "https://raw.githubusercontent.com/lodash/lodash/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "mocha",
+      "url": "https://raw.githubusercontent.com/mochajs/mocha/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "node-RED",
+      "url": "https://raw.githubusercontent.com/node-red/node-red/refs/heads/master/SECURITY.md"
+    },
+    {
+      "project": "nvm",
+      "url": "https://raw.githubusercontent.com/nvm-sh/nvm/refs/heads/master/.github/SECURITY.md"
+    },
+    {
+      "project": "QUnit (jQuery)",
+      "url": "https://raw.githubusercontent.com/qunitjs/qunit/refs/heads/main/SECURITY.md"
+    },
+    {
+      "project": "WebdriverIO",
+      "url": "https://raw.githubusercontent.com/webdriverio/webdriverio/refs/heads/main/.github/SECURITY.md"
+    }
+  ],
+  "records": {
+    "1ee69f1cee5715fed117c50d85fb143d6cab997b9b5e33c136e62ed4decf69dd": {
+      "project": "nodejs",
+      "url": "https://raw.githubusercontent.com/nodejs/node/refs/heads/main/SECURITY.md",
+      "hashedUrl": "1ee69f1cee5715fed117c50d85fb143d6cab997b9b5e33c136e62ed4decf69dd",
+      "hashedContent": "3573988db915c7bb60f93de9f068514736a887247873657e8bc96c8b420c3cec"
+    },
+    "9c75a248318b27ab87933749481f1a20f786516e00518b6c0ef3b27b043c6964": {
+      "project": "Electron",
+      "url": "https://raw.githubusercontent.com/electron/electron/refs/heads/main/SECURITY.md",
+      "hashedUrl": "9c75a248318b27ab87933749481f1a20f786516e00518b6c0ef3b27b043c6964",
+      "hashedContent": "f3a49cd52607651ad53366c9e021ef2b8d667b1a2cff6341af2891646f3c7fd1"
+    },
+    "0a561443ba6f94ab4555b54d43295bfe7f87255db086c147bff3e56a4418faae": {
+      "project": "jQuery",
+      "url": "https://raw.githubusercontent.com/jquery/jquery/refs/heads/main/SECURITY.md",
+      "hashedUrl": "0a561443ba6f94ab4555b54d43295bfe7f87255db086c147bff3e56a4418faae",
+      "hashedContent": "958220118165407f6a97358e1c379e25c20c2c3967c92cfb9fabc489861c30db"
+    },
+    "9cc8007703d675c5dc441547f0bd1100f4ea57e6b33196be7aa93e30e200bb86": {
+      "project": "Appium",
+      "url": "https://raw.githubusercontent.com/appium/.github/refs/heads/master/SECURITY.md",
+      "hashedUrl": "9cc8007703d675c5dc441547f0bd1100f4ea57e6b33196be7aa93e30e200bb86",
+      "hashedContent": "2bdc4c3887bcdaa01e849dfac7ec22075ed3fc91e96a91812d804771f3d71705"
+    },
+    "ee633a1aee29817c6727be7863bb05d28b58067c06f1c6cec752cb63022a13d8": {
+      "project": "Webpack",
+      "url": "https://raw.githubusercontent.com/webpack/webpack/refs/heads/main/SECURITY.md",
+      "hashedUrl": "ee633a1aee29817c6727be7863bb05d28b58067c06f1c6cec752cb63022a13d8",
+      "hashedContent": "6905ad7fd87f982e76f8df2e4e910059ce7c1c06e117b232d085b0d51f00d534"
+    },
+    "a3e3f66c5ecd9162e6eef525bfbe2a8cd8efd6d91d4fb9b655d632f737e42a1f": {
+      "project": "Express",
+      "url": "https://raw.githubusercontent.com/expressjs/express/refs/heads/master/SECURITY.md",
+      "hashedUrl": "a3e3f66c5ecd9162e6eef525bfbe2a8cd8efd6d91d4fb9b655d632f737e42a1f",
+      "hashedContent": "5f52f96ab191f8ec501f2f41422fa5bf6922fa517db39c5061e8f26fcfb00f41"
+    },
+    "fd3cc0be5eda617c039b548ce1728b7750d17ea539efab85e98d833b614ffaf6": {
+      "project": "Kepler.gl",
+      "url": "https://raw.githubusercontent.com/keplergl/kepler.gl/refs/heads/master/.github/SECURITY.md",
+      "hashedUrl": "fd3cc0be5eda617c039b548ce1728b7750d17ea539efab85e98d833b614ffaf6",
+      "hashedContent": "6fbf73e3fc0c9c2ffd64f26e26cae1f1dcdc248766460a0148e58f9bb01f39e7"
+    },
+    "1ede9f44e0a045fa4de9a768784455cd0fdfa3120661da2295808566faa2e1ab": {
+      "project": "Deck.gl",
+      "url": "https://raw.githubusercontent.com/visgl/deck.gl/refs/heads/master/.github/SECURITY.md",
+      "hashedUrl": "1ede9f44e0a045fa4de9a768784455cd0fdfa3120661da2295808566faa2e1ab",
+      "hashedContent": "926b553edfff5c8234bed104f59050ac0881e6fbf445318cd633f057502e9a2c"
+    },
+    "15bebff0e27893f427b4b21e9deaf16aab843fadb2b50e838266dc175fb24873": {
+      "project": "Cosmos.gl",
+      "url": "https://raw.githubusercontent.com/cosmosgl/graph/refs/heads/main/.github/SECURITY.md",
+      "hashedUrl": "15bebff0e27893f427b4b21e9deaf16aab843fadb2b50e838266dc175fb24873",
+      "hashedContent": "5f2ab49cc3aae9a44c439364faa70907901def7dd342e2792cd3fa5760409933"
+    },
+    "4646fcb0024fff0401960021f39ed9bea3f874d88a64c3e97c8e19c3cbdd9c2d": {
+      "project": "esprima (jQuery)",
+      "url": "https://raw.githubusercontent.com/jquery/.github/refs/heads/main/SECURITY.md",
+      "hashedUrl": "4646fcb0024fff0401960021f39ed9bea3f874d88a64c3e97c8e19c3cbdd9c2d",
+      "hashedContent": "35b41fa5ccb9d9a596bc694f75772a8b75d2f62760779f49974869367f5c2f65"
+    },
+    "9bef384d1768cddb5b355a3aec125311940df44931c1b40ac7aec8d5f351fbec": {
+      "project": "jQuery UI",
+      "url": "https://raw.githubusercontent.com/jquery/jquery-ui/refs/heads/main/SECURITY.md",
+      "hashedUrl": "9bef384d1768cddb5b355a3aec125311940df44931c1b40ac7aec8d5f351fbec",
+      "hashedContent": "56958c175c494871a7df53f7ae637fda17c3475416510e0464da03efe4ee3204"
+    },
+    "510a52d97fec9f4dfb463d130e3d05c2f51f5f1e4084f486efba4e332d97d412": {
+      "project": "HospitalRun",
+      "url": "https://raw.githubusercontent.com/HospitalRun/hospitalrun/refs/heads/master/SECURITY.md",
+      "hashedUrl": "510a52d97fec9f4dfb463d130e3d05c2f51f5f1e4084f486efba4e332d97d412",
+      "hashedContent": "96b49ed6a11218982e98f3b575341495d7cb668dc76b3ef5d6209b78d52b0f4d"
+    },
+    "6cce4a5c43a8d791016159bbf204e448dd23b7729e71886280ec63e91a63b854": {
+      "project": "AMP",
+      "url": "https://raw.githubusercontent.com/ampproject/amphtml/refs/heads/main/SECURITY.md",
+      "hashedUrl": "6cce4a5c43a8d791016159bbf204e448dd23b7729e71886280ec63e91a63b854",
+      "hashedContent": "bdd08618743e9999f63e23fc2745e898425de7197a3cae38f7022882db886332"
+    },
+    "2654bcd879936409fcd12190254cc17e778d65d9269101106406e081c76f81c1": {
+      "project": "eslint",
+      "url": "https://raw.githubusercontent.com/eslint/.github/refs/heads/master/SECURITY.md",
+      "hashedUrl": "2654bcd879936409fcd12190254cc17e778d65d9269101106406e081c76f81c1",
+      "hashedContent": "2fcdd91f8b88d5d23422ecbf2f53c1957b1a0aa7447432a5c1f6d6adb2235bd1"
+    },
+    "35ff71b40c928886bfa1f368cba87bf119646192a853085cca4460244e4f9e5f": {
+      "project": "fastify",
+      "url": "https://raw.githubusercontent.com/fastify/fastify/refs/heads/main/SECURITY.md",
+      "hashedUrl": "35ff71b40c928886bfa1f368cba87bf119646192a853085cca4460244e4f9e5f",
+      "hashedContent": "c9fee1955c2ca278997b64e107ce8154385c378d642e44feb5d5fc9e2801c982"
+    },
+    "3ff7bcc9c58afafb7870e0284099968ee1832d54ff45400d01993e041af5276d": {
+      "project": "Globalize",
+      "url": "https://raw.githubusercontent.com/globalizejs/globalize/refs/heads/master/SECURITY.md",
+      "hashedUrl": "3ff7bcc9c58afafb7870e0284099968ee1832d54ff45400d01993e041af5276d",
+      "hashedContent": "c439b0907802f3e711faa6790416e568b2b25f8798af30b60d625a440b2ac316"
+    },
+    "c0ef854f898fbecddf48815f6ba00beb5ee4d02b5b416fa73b586dfb4a314d47": {
+      "project": "Grunt",
+      "url": "https://raw.githubusercontent.com/gruntjs/grunt/refs/heads/main/SECURITY.md",
+      "hashedUrl": "c0ef854f898fbecddf48815f6ba00beb5ee4d02b5b416fa73b586dfb4a314d47",
+      "hashedContent": "f7daf36fe8a1a50655e47336bfff37591c5a3d2aa46127e040c607dcf47a7cbe"
+    },
+    "98f9d8532d3bfeb1b3614b6a0a15f059141f112b036701fc99a220207d664867": {
+      "project": "intern",
+      "url": "https://raw.githubusercontent.com/theintern/intern/refs/heads/master/SECURITY.md",
+      "hashedUrl": "98f9d8532d3bfeb1b3614b6a0a15f059141f112b036701fc99a220207d664867",
+      "hashedContent": "2baaf8a333924df388d092227a1e65d27f57e70c5e43feeb9525c53acc9bb274"
+    },
+    "dcb8dcb6da9bf0dd91b9c667f6876d7949876a7b485e99bac48d73a768d711ca": {
+      "project": "NativeScript",
+      "url": "https://raw.githubusercontent.com/NativeScript/.github/refs/heads/master/SECURITY.md",
+      "hashedUrl": "dcb8dcb6da9bf0dd91b9c667f6876d7949876a7b485e99bac48d73a768d711ca",
+      "hashedContent": "f863b423c71bcb44059ccad8cdaf3b1013aa58f4c81366f1c9e851e4e09963f6"
+    },
+    "429b1be462d0e9d862ff9f388c7bc1f87bfedf24002effb565dad7e58a8f57b4": {
+      "project": "jest",
+      "url": "https://raw.githubusercontent.com/jestjs/jest/refs/heads/main/SECURITY.md",
+      "hashedUrl": "429b1be462d0e9d862ff9f388c7bc1f87bfedf24002effb565dad7e58a8f57b4",
+      "hashedContent": "867cf69aef671c0fe2c9c607b60d68d5844ecb64f269c042c1210ed1365f89b9"
+    },
+    "1c394470ea1b75c395fff507beb35233b9d25bb62cd94d26126c6ee8e9d5587d": {
+      "project": "LoopBack",
+      "url": "https://raw.githubusercontent.com/loopbackio/loopback-next/refs/heads/master/SECURITY.md",
+      "hashedUrl": "1c394470ea1b75c395fff507beb35233b9d25bb62cd94d26126c6ee8e9d5587d",
+      "hashedContent": "83bcecd0bb3e7f8f9132fee1d85daca3e12c8f549c2b05761751f372ebc9c3c0"
+    },
+    "49538f18b8df97d1d08c6b58b221993a4d8e981cd63e666df394efc44b40f500": {
+      "project": "lodash",
+      "url": "https://raw.githubusercontent.com/lodash/lodash/refs/heads/main/SECURITY.md",
+      "hashedUrl": "49538f18b8df97d1d08c6b58b221993a4d8e981cd63e666df394efc44b40f500",
+      "hashedContent": "017fe67956687f92f642a922762f96c6e09e74756001f8de15961fae06a830bc"
+    },
+    "b9d476c6ca04190b1aeb95cb0a61d126b9c923c5fda3fbddfafb2d93cf56f58e": {
+      "project": "mocha",
+      "url": "https://raw.githubusercontent.com/mochajs/mocha/refs/heads/main/SECURITY.md",
+      "hashedUrl": "b9d476c6ca04190b1aeb95cb0a61d126b9c923c5fda3fbddfafb2d93cf56f58e",
+      "hashedContent": "4f206504d8b1e650beaf2d7b0fd054a2c603829aef7e9974218aea1d3d92e911"
+    },
+    "fb77933eaf512ab3ee6cc7e8c1d1dc2269dada7431e6e936fdd9baae2b6505d1": {
+      "project": "node-RED",
+      "url": "https://raw.githubusercontent.com/node-red/node-red/refs/heads/master/SECURITY.md",
+      "hashedUrl": "fb77933eaf512ab3ee6cc7e8c1d1dc2269dada7431e6e936fdd9baae2b6505d1",
+      "hashedContent": "1f83c2715fe7d9b876d43eae95d5e257030da7f3f88f3cd6485ab7a581fe55f5"
+    },
+    "a9267584f8ded4883124547e57d526c176cc92c510a22f63b5aad7a42b669a75": {
+      "project": "nvm",
+      "url": "https://raw.githubusercontent.com/nvm-sh/nvm/refs/heads/master/.github/SECURITY.md",
+      "hashedUrl": "a9267584f8ded4883124547e57d526c176cc92c510a22f63b5aad7a42b669a75",
+      "hashedContent": "0288668854b2d2e212ad1699d4d4dd1b802cd726776e511bcf60d1321e68f687"
+    },
+    "2e085ef01530403ba5810946b42ceb5eea0bd9d23dbb357f925ce818f333fe8d": {
+      "project": "QUnit (jQuery)",
+      "url": "https://raw.githubusercontent.com/qunitjs/qunit/refs/heads/main/SECURITY.md",
+      "hashedUrl": "2e085ef01530403ba5810946b42ceb5eea0bd9d23dbb357f925ce818f333fe8d",
+      "hashedContent": "90c41a557eb1e43452f2046d6a6d894c62fa3e27e5a13031d8b0addf3bea0844"
+    },
+    "ed6d83f3272a5df5c292f25b09a571091ce9ef945dc680ca4159d48cb05974ab": {
+      "project": "WebdriverIO",
+      "url": "https://raw.githubusercontent.com/webdriverio/webdriverio/refs/heads/main/.github/SECURITY.md",
+      "hashedUrl": "ed6d83f3272a5df5c292f25b09a571091ce9ef945dc680ca4159d48cb05974ab",
+      "hashedContent": "f38f5fc8af8d657c0f82f0b4f34e09a5a0eacf581cf65ac987febf6e9a85f443"
+    }
+  }
+}

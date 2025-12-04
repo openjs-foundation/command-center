@@ -2,18 +2,30 @@
   "github.com": {
     "webpack": {
       "tapable": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5,
+            "date": "2025-07-07",
+            "commit": "4b099d8745bb57a9169d0e53a9a3398d316f872d"
+          }
+        ],
         "current": {
-          "score": 5,
-          "date": "2025-07-07",
-          "commit": "4b099d8745bb57a9169d0e53a9a3398d316f872d"
+          "score": 5.1,
+          "date": "2025-11-24",
+          "commit": "ecee2ef9420e4e533712f8da030f4846be29c631"
         }
       },
       "analyse": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 1.6,
+            "date": "2025-07-07",
+            "commit": "57f51903e21e929cf4428033608b9f3b791e6fe9"
+          }
+        ],
         "current": {
-          "score": 1.6,
-          "date": "2025-07-07",
+          "score": 3.1,
+          "date": "2025-11-24",
           "commit": "57f51903e21e929cf4428033608b9f3b791e6fe9"
         }
       },
@@ -23,12 +35,17 @@
             "score": 5.9,
             "date": "2025-07-07",
             "commit": "ad1e3b46f46b9acd5bb9c377afcdc101338d5c96"
+          },
+          {
+            "score": 6,
+            "date": "2025-07-28",
+            "commit": "de79ee457eb921e6e1b186c90c65590789a013ca"
           }
         ],
         "current": {
-          "score": 6,
-          "date": "2025-07-28",
-          "commit": "de79ee457eb921e6e1b186c90c65590789a013ca"
+          "score": 5.3,
+          "date": "2025-11-24",
+          "commit": "04375e8fca83d5b36788f7401345a6a7e10ec0a0"
         }
       },
       "webpack-dev-server": {
@@ -37,19 +54,30 @@
             "score": 6.5,
             "date": "2025-07-07",
             "commit": "6afffac308c0505a6fd966d82149c3d8667960f6"
+          },
+          {
+            "score": 6.3,
+            "date": "2025-07-28",
+            "commit": "64e4afee9d29202ec14971ce97aff4d6e2cae2a9"
           }
         ],
         "current": {
-          "score": 6.3,
-          "date": "2025-07-28",
-          "commit": "64e4afee9d29202ec14971ce97aff4d6e2cae2a9"
+          "score": 6.4,
+          "date": "2025-11-24",
+          "commit": "792b2f0bd13a3b93abf701fe3a5cf41ee16722f4"
         }
       },
       "node-libs-browser": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 2.4,
+            "date": "2025-07-07",
+            "commit": "214057f118bad5da8b99db33fd16a5b6ceb42d9b"
+          }
+        ],
         "current": {
-          "score": 2.4,
-          "date": "2025-07-07",
+          "score": 5.2,
+          "date": "2025-11-24",
           "commit": "214057f118bad5da8b99db33fd16a5b6ceb42d9b"
         }
       },
@@ -68,18 +96,30 @@
         }
       },
       "webpack-dev-middleware": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6.8,
+            "date": "2025-07-07",
+            "commit": "0fdeeaa989e14feb0f136539ddfdf484b86762f8"
+          }
+        ],
         "current": {
-          "score": 6.8,
-          "date": "2025-07-07",
-          "commit": "0fdeeaa989e14feb0f136539ddfdf484b86762f8"
+          "score": 6.4,
+          "date": "2025-11-24",
+          "commit": "3ecd121c376ae61b4faa2c87e88bad60abd5dbb0"
         }
       },
       "core": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 2.9,
+            "date": "2025-07-07",
+            "commit": "d0dee8a587e2c7b94c1ae14cd380c4864f3f1f32"
+          }
+        ],
         "current": {
-          "score": 2.9,
-          "date": "2025-07-07",
+          "score": 4.4,
+          "date": "2025-11-24",
           "commit": "d0dee8a587e2c7b94c1ae14cd380c4864f3f1f32"
         }
       },
@@ -89,27 +129,44 @@
             "score": 4.3,
             "date": "2025-07-07",
             "commit": "332b55016b7c32dab4134f793ca71a5141bd10c1"
+          },
+          {
+            "score": 4.1,
+            "date": "2025-07-28",
+            "commit": "332b55016b7c32dab4134f793ca71a5141bd10c1"
           }
         ],
         "current": {
-          "score": 4.1,
-          "date": "2025-07-28",
-          "commit": "332b55016b7c32dab4134f793ca71a5141bd10c1"
+          "score": 4.4,
+          "date": "2025-11-24",
+          "commit": "a0acaa6676631e88d9a11e7e523ac418cc35e56a"
         }
       },
       "enhanced-resolve": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 6,
+            "date": "2025-07-07",
+            "commit": "0bf45033f4cb12e034819c4e420ca12965619fc8"
+          }
+        ],
         "current": {
-          "score": 6,
-          "date": "2025-07-07",
-          "commit": "0bf45033f4cb12e034819c4e420ca12965619fc8"
+          "score": 5.9,
+          "date": "2025-11-24",
+          "commit": "79e2961c600527dee81c8ad0fb804529b1d36757"
         }
       },
       "fastparse": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 3.2,
+            "date": "2025-07-07",
+            "commit": "85d8fa8a49e0a4a08cf884ec854f0d834cab817a"
+          }
+        ],
         "current": {
-          "score": 3.2,
-          "date": "2025-07-07",
+          "score": 4.7,
+          "date": "2025-11-24",
           "commit": "85d8fa8a49e0a4a08cf884ec854f0d834cab817a"
         }
       },
@@ -119,12 +176,17 @@
             "score": 4.5,
             "date": "2025-07-07",
             "commit": "f9baee8153ef042fdf85ee20d8538fb31ddaf291"
+          },
+          {
+            "score": 4.2,
+            "date": "2025-07-28",
+            "commit": "f332292a3f6ecd21c53ec5e02ab2fefde87236b0"
           }
         ],
         "current": {
-          "score": 4.2,
-          "date": "2025-07-28",
-          "commit": "f332292a3f6ecd21c53ec5e02ab2fefde87236b0"
+          "score": 4.7,
+          "date": "2025-11-24",
+          "commit": "2a7b13dbf2741715a730022f0ecab81f087cc1f8"
         }
       },
       "webpack-sources": {
@@ -133,11 +195,16 @@
             "score": 4.7,
             "date": "2025-07-07",
             "commit": "1b98c0f26810925d66d56088a07dc9a1a43e63cd"
+          },
+          {
+            "score": 4.5,
+            "date": "2025-07-28",
+            "commit": "1b98c0f26810925d66d56088a07dc9a1a43e63cd"
           }
         ],
         "current": {
-          "score": 4.5,
-          "date": "2025-07-28",
+          "score": 4.2,
+          "date": "2025-11-24",
           "commit": "1b98c0f26810925d66d56088a07dc9a1a43e63cd"
         }
       },
@@ -147,27 +214,44 @@
             "score": 3.9,
             "date": "2025-07-07",
             "commit": "6bbadc71888479df9b21b02fa089648659594a89"
+          },
+          {
+            "score": 3.8,
+            "date": "2025-07-28",
+            "commit": "6bbadc71888479df9b21b02fa089648659594a89"
           }
         ],
         "current": {
-          "score": 3.8,
-          "date": "2025-07-28",
-          "commit": "6bbadc71888479df9b21b02fa089648659594a89"
+          "score": 4,
+          "date": "2025-11-24",
+          "commit": "9fa0836b81bd9723b35f1379e47f247fe8dd9fd8"
         }
       },
       "webpack.js.org": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 4.3,
+            "date": "2025-07-07",
+            "commit": "d4ceaf5356ec10b30e21846c0556ea6570a17cee"
+          }
+        ],
         "current": {
-          "score": 4.3,
-          "date": "2025-07-07",
-          "commit": "d4ceaf5356ec10b30e21846c0556ea6570a17cee"
+          "score": 5.5,
+          "date": "2025-11-24",
+          "commit": "a112cd96658e37a421dd187ef4596a50c9b4b0d8"
         }
       },
       "source-list-map": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 2.5,
+            "date": "2025-07-07",
+            "commit": "4a21840d3a4162e2f94dcb444476aa6f08d46fe8"
+          }
+        ],
         "current": {
-          "score": 2.5,
-          "date": "2025-07-07",
+          "score": 3.7,
+          "date": "2025-11-24",
           "commit": "4a21840d3a4162e2f94dcb444476aa6f08d46fe8"
         }
       },
@@ -177,28 +261,109 @@
             "score": 6.1,
             "date": "2025-07-07",
             "commit": "71edec3d2c1645c94b1d7b31ba6bf743dc9747e9"
+          },
+          {
+            "score": 5.6,
+            "date": "2025-07-28",
+            "commit": "b2db9e9a26d643a68d9ec71cea2d2b799f04cfca"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2025-07-28",
-          "commit": "b2db9e9a26d643a68d9ec71cea2d2b799f04cfca"
+          "score": 4.6,
+          "date": "2025-11-24",
+          "commit": "6eba6f02ab8d4183772867dd0934885ea8141a73"
         }
       },
       "github-org-overview": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 2.6,
+            "date": "2025-07-07",
+            "commit": "ce0633595766a75d6cb30aac88364b7f236f4aac"
+          }
+        ],
         "current": {
-          "score": 2.6,
-          "date": "2025-07-07",
+          "score": 4.1,
+          "date": "2025-11-24",
           "commit": "ce0633595766a75d6cb30aac88364b7f236f4aac"
         }
       },
       "memory-fs": {
+        "previous": [
+          {
+            "score": 2.7,
+            "date": "2025-07-07",
+            "commit": "70fff592f872559146749f12d0e6e8e62510a2dc"
+          }
+        ],
+        "current": {
+          "score": 4.2,
+          "date": "2025-11-24",
+          "commit": "70fff592f872559146749f12d0e6e8e62510a2dc"
+        }
+      },
+      "style-loader": {
         "previous": [],
         "current": {
-          "score": 2.7,
-          "date": "2025-07-07",
-          "commit": "70fff592f872559146749f12d0e6e8e62510a2dc"
+          "score": 6,
+          "date": "2025-11-24",
+          "commit": "5df470509948c9ccb96944b81545788a9edc7500"
+        }
+      },
+      "compression-webpack-plugin": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-11-24",
+          "commit": "4aaa64242ec46fb308adce508dbbfc5d08b146b2"
+        }
+      },
+      "exports-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-11-24",
+          "commit": "64e20b8f4d5e1c86bced14275874fb744261bcee"
+        }
+      },
+      "imports-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-11-24",
+          "commit": "b3aa75e1de816ede667309c2d0bc79e9374cc546"
+        }
+      },
+      "html-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-11-24",
+          "commit": "9f51eb11de4a9eb8d8a2907151ef0ec11b6cca75"
+        }
+      },
+      "css-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-11-24",
+          "commit": "7daf1b88f659bec709839cf414764497b2f3efbc"
+        }
+      },
+      "less-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-11-24",
+          "commit": "42fc7a4807ed0ba5bc215d8c0263fd9f02f884b7"
+        }
+      },
+      "coffee-loader": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-11-24",
+          "commit": "d46dc3997fe56f3dfb8e7f225002f1a4885ec8e7"
         }
       }
     }

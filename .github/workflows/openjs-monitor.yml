@@ -1,0 +1,51 @@
+name: OpenJS Security Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  monitor:
+    name: Monitor OpenJS Packages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to push changes back to the repository
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      
+      - name: Create directories
+        run: |
+          mkdir -p tools/openjs-monitor/cache
+          mkdir -p tools/openjs-monitor/checksums
+          
+      - name: Run monitor
+        run: cd tools/openjs-monitor && node monitor.js
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status --porcelain cache checksums
+          if [ -n "$(git status --porcelain cache checksums)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add cache checksums
+          git commit -m "Update security monitoring data [skip ci]" -a
+          git push

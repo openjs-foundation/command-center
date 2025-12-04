@@ -20,7 +20,15 @@
         "webpack.js.org",
         "github-org-overview",
         "loader-runner",
-        "schema-utils"
+        "schema-utils",
+        "style-loader",
+        "less-loader",
+        "css-loader",
+        "coffee-loader",
+        "imports-loader",
+        "exports-loader",
+        "html-loader",
+        "compression-webpack-plugin"
       ],
       "excluded": []
     }

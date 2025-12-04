@@ -1,0 +1,14 @@
+{
+  "github.com": {
+    "moment": {
+      "included": [
+        "moment",
+        "moment-timezone",
+        "moment-cldr",
+        "luxon",
+        "momentjs.com"
+      ],
+      "excluded": []
+    }
+  }
+}

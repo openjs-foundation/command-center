@@ -1,0 +1,28 @@
+{
+  "github.com": {
+    "webpack": {
+      "included": [
+        "webpack",
+        "webpack-dev-middleware",
+        "webpack-dev-server",
+        "enhanced-resolve",
+        "tapable",
+        "core",
+        "node-libs-browser",
+        "loader-utils",
+        "analyse",
+        "watchpack",
+        "source-list-map",
+        "fastparse",
+        "memory-fs",
+        "webpack-sources",
+        "webpack-cli",
+        "webpack.js.org",
+        "github-org-overview",
+        "loader-runner",
+        "schema-utils"
+      ],
+      "excluded": []
+    }
+  }
+}

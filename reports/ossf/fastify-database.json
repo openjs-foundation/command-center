@@ -1,0 +1,638 @@
+{
+  "github.com": {
+    "fastify": {
+      "fastify-swagger": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2025-07-28",
+          "commit": "76940005b9c1f4d03989e46dbfec5c8dccb4c8ab"
+        }
+      },
+      "fastify-auth": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "47183feee698dbeea2f16deddbb8d4d8eac5152e"
+        }
+      },
+      "fastify-cli": {
+        "previous": [],
+        "current": {
+          "score": 7.1,
+          "date": "2025-07-28",
+          "commit": "017f8dbb4699c1331cdefc73654ac78a46bbc15f"
+        }
+      },
+      "fastify": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2025-07-28",
+          "commit": "1e6300bc4e38086542dd7c9fa48d8a4110a88f4b"
+        }
+      },
+      "fastify-mongodb": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "fa8d38734d25738f4dd26691568f7bb6602527c0"
+        }
+      },
+      "fastify-websocket": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "b6d982afc76f0ad5ffdb1c9cb02b4a0106df016f"
+        }
+      },
+      "fastify-plugin": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "00162997efcec369b2194173e2ebe9e229486380"
+        }
+      },
+      "fast-json-stringify": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-28",
+          "commit": "ad325d8555ad305591047321a6c5e8e6f33ac0a9"
+        }
+      },
+      "point-of-view": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "c68d474c3d647696a2aa2d7ebc1000e99d2f10c2"
+        }
+      },
+      "avvio": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2025-07-28",
+          "commit": "072d68deee86446fcbd590b200b6987b0472db47"
+        }
+      },
+      "fastify-multipart": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "87b3a8e6cd805142f389fd530d0615a3a00f6bab"
+        }
+      },
+      "fastify-redis": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "fb8477edb98817277160c0e4d35f56af34f94b19"
+        }
+      },
+      "fastify-bearer-auth": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "78fdc288c9307073784044f3a0d47cca2bb39dad"
+        }
+      },
+      "benchmarks": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2025-07-28",
+          "commit": "64e7be4f4cc56f3dcfd783d7fc4cad3ed00243e7"
+        }
+      },
+      "fastify-leveldb": {
+        "previous": [],
+        "current": {
+          "score": 6.1,
+          "date": "2025-07-28",
+          "commit": "f7e6a5cd7e645eb9a15537662e2bff968f93718a"
+        }
+      },
+      "fastify-helmet": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "77ac2188e49345b3b5864c34b45241bea159f674"
+        }
+      },
+      "fastify-nextjs": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "e4996cd3d32859514f79f9174fac32e5c440a14a"
+        }
+      },
+      "fastify-bankai": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "04581744d8b7b0a01c32611a700265dffb50ce74"
+        }
+      },
+      "fastify-jwt": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "e7580622518dbf8366b4d8f4c81e6c1e0d41e6db"
+        }
+      },
+      "fastify-accepts": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "68564f5a05cc064b12f6230bcd7f631b8933a70d"
+        }
+      },
+      "fastify-cookie": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "1541136337168cd0b7ddaf39a5962faef480aa53"
+        }
+      },
+      "fastify-env": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "24a63f5b7e1552e375856b2106ba9d15e74a1a97"
+        }
+      },
+      "fastify-caching": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "65ecd175a14c773886152d18c34dab48a6c7645e"
+        }
+      },
+      "under-pressure": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-21",
+          "commit": "dda848112315340f182ff907faf5735a87aca454"
+        }
+      },
+      "fastify-static": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "99ca884cfc9a189242b07b26c4a27ac50084bc20"
+        }
+      },
+      "fastify-formbody": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "714fe35563f5cdef53c7967229efd97cee7685b8"
+        }
+      },
+      "fastify-url-data": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "48cd8c34622e059925e478e7d08f066b14efbda0"
+        }
+      },
+      "fastify-register-timeout": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "05342b6689ac57dc6bd02b11f8897a4e7ce31ea3"
+        }
+      },
+      "light-my-request": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "df70d9195fb530fba5ac40f746e9c75b030d097f"
+        }
+      },
+      "fastify-accepts-serializer": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "125d936930c4291e6da1ece2b262f1094d3bbeb0"
+        }
+      },
+      "any-schema-you-like": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-28",
+          "commit": "2f5e0e8ddc8825209cb32119288561ea4245fd60"
+        }
+      },
+      "fastify-zipkin": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "cf7b48505727bfdcc3166c881e30df66f9facc23"
+        }
+      },
+      "fastify-secure-session": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "64f8d9b64bc52cadaf62fa658ba66eed195b5486"
+        }
+      },
+      "fastify-rate-limit": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-28",
+          "commit": "843aca32546b2316e43e888064c9c94ebb1dafd9"
+        }
+      },
+      "fastify-postgres": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "15b5d0a1c1e51a6b1ebba45b65d9d3a4a53b9bbe"
+        }
+      },
+      "fastify-http-proxy": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "6a93159965d8d63237a031ac0754a91266faf85d"
+        }
+      },
+      "fastify-elasticsearch": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-28",
+          "commit": "8536d990d16af3be08ac2e99902228b51983d5df"
+        }
+      },
+      "fastify-kafka": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "28e627a2f5c5a6bd636de488cee0e8f54c52b053"
+        }
+      },
+      "fastify-compress": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "8f937e9ad6e915f6aabe4d3ff0420f6ebaf70e5a"
+        }
+      },
+      "fastify-mysql": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "d83d4a346605c104599f9fd120d320572e13708c"
+        }
+      },
+      "fastify-routes-stats": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "50192ee58c64ede38dc13bafd62bb24f7b7738b9"
+        }
+      },
+      "fastify-reply-from": {
+        "previous": [],
+        "current": {
+          "score": 7.2,
+          "date": "2025-07-28",
+          "commit": "cd2ba083e4a4e8085dc973edb8c5e622efaf830e"
+        }
+      },
+      "fastify-sensible": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "e255e45d042910c2529eb86cebefccc2ed85f443"
+        }
+      },
+      "fastify-oauth2": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "d2b3c2381b7d01d1bb8b5e96680f48c966e78d89"
+        }
+      },
+      "fastify-basic-auth": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "a7cda3c4084b81f94ce6a1aec977100859a0abb6"
+        }
+      },
+      "fluent-json-schema": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "e17297b8b62af4e8db38aa3de970e7da5ac50379"
+        }
+      },
+      "fastify-routes": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "c8c883e2046cc6a91fc7f42b700cf069351537e9"
+        }
+      },
+      "fastify-soap-client": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "c0c7ac24757b0b591b7a86acc145c1b473fd5a37"
+        }
+      },
+      "fastify-cors": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-28",
+          "commit": "d63bb089e4de8c603b849670a902b7383521dafd"
+        }
+      },
+      "fastify-circuit-breaker": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "66765542112a721ceb4f8e4c210151be62dc48dd"
+        }
+      },
+      "fastify-flash": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "0343fd90f389675fbab3666b5f0b2d0e6fb1bb4d"
+        }
+      },
+      "fastify-response-validation": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "d2d66491000f7d3558a29c1823744b60b14223af"
+        }
+      },
+      "fastify-express": {
+        "previous": [],
+        "current": {
+          "score": 6.1,
+          "date": "2025-07-28",
+          "commit": "13f6a30d49eb065bd0924ff8a93253689a4b8832"
+        }
+      },
+      "env-schema": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "172f91a732dbec3e96211d4ab5dea5359e6b0aaf"
+        }
+      },
+      "secure-json-parse": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-28",
+          "commit": "955be929e75efe537910f2c688ca58fa8960ed25"
+        }
+      },
+      "fastify-passport": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "1151db25279f5b1c360ce1f2dd76d72d1bcda185"
+        }
+      },
+      "releasify": {
+        "previous": [],
+        "current": {
+          "score": 6,
+          "date": "2025-07-28",
+          "commit": "c53296dbe6a5e18ab9be6b47e4cb66d12464c382"
+        }
+      },
+      "fastify-server-timeout": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "6924df598db8e2b2606694e70c5aee4689b7bc06"
+        }
+      },
+      "fastify-autoload": {
+        "previous": [],
+        "current": {
+          "score": 7.3,
+          "date": "2025-07-28",
+          "commit": "37a4e2c4e33d65bf88bdcd1741a9c662e6c2ad35"
+        }
+      },
+      "compile-schemas-to-typescript": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "085fd0320261d059bc3055c4be71d5a07052b8cb"
+        }
+      },
+      "fastify-awilix": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-28",
+          "commit": "d05a7d4048edf68dfb9bbc3ff01ec04d81662b2b"
+        }
+      },
+      "fastify-etag": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "3f416ee2e89031a52488ac0e64e56a0f0d50e075"
+        }
+      },
+      "fastify-funky": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "262a54aa58cf2ad5eb30fd5a69346c1ac6925704"
+        }
+      },
+      "fast-proxy": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-28",
+          "commit": "7692b35112a6b866a957ecd2344e696a1506ad09"
+        }
+      },
+      "tsconfig": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "849aa01240311c69235de8cbd98522bd508ebe45"
+        }
+      },
+      "fastify-request-context": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "7424822307af22b48a64731c0a3fd11e46147a73"
+        }
+      },
+      "fastify-diagnostics-channel": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-28",
+          "commit": "dc894e8d64a79b7a51123ad6002f044b5e2e8c4d"
+        }
+      },
+      "fastify-error": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-28",
+          "commit": "edc6c2a6a9fd0175ddcf997c7d76dd884526c84d"
+        }
+      },
+      "github-action-merge-dependabot": {
+        "previous": [],
+        "current": {
+          "score": 7.8,
+          "date": "2025-07-28",
+          "commit": "9f8f3b73246251a98626a6e6057ce4dbd5688ea6"
+        }
+      },
+      "aws-lambda-fastify": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "df8d79a06e130c5d14739849e4ca78b50c613869"
+        }
+      },
+      "proxy-addr": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "d9c2e819c8d469f86bc377363b8ef4a0973d775c"
+        }
+      },
+      "session": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "76d3d858c4a45ba74ff56ea3cab9ed551cbad695"
+        }
+      },
+      "fastify-hotwire": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "dc8b26cb2fdf6c225e93a15c907f8b48e378c423"
+        }
+      },
+      "csrf": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "ac4a6cbf0a52a8e100dcefccafe54dad673ef902"
+        }
+      },
+      "ajv-compiler": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-28",
+          "commit": "ed2a0591dcbd71055a9dbaf07e0daa03e23fec05"
+        }
+      },
+      "pre-commit": {
+        "previous": [],
+        "current": {
+          "score": 6.1,
+          "date": "2025-07-28",
+          "commit": "d67708cba8e7740fe357eef619f4728254cbe806"
+        }
+      },
+      "website": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "0c421e3c23bdd68491114e260c5e4e0e4faf1acc"
+        }
+      },
+      "forwarded": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-28",
+          "commit": "97070dba25dd2ceb2a4e5a594cdabde2e9ed3502"
+        }
+      },
+      "fastify-schedule": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2025-07-28",
+          "commit": "17ebad70cae9c0b1f8485cbfadef2bfebdef720c"
+        }
+      }
+    }
+  }
+}

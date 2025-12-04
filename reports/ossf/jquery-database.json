@@ -1,0 +1,142 @@
+{
+  "github.com": {
+    "jquery": {
+      "jquery-mousewheel": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-28",
+          "commit": "9f32b9044515138adad008e6a1a6a0257ad26bc0"
+        }
+      },
+      "jquery": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2025-07-28",
+          "commit": "0ef6020295b670ad91fba530c854f863faa97a90"
+        }
+      },
+      "sizzle": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "2f1afae2abb6aef7c9862fbe2ecfae8496a8fd0b"
+        }
+      },
+      "testswarm": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-28",
+          "commit": "529c369e74b464867b1fc919ae6548ab3ade246a"
+        }
+      },
+      "esprima": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "512cd66c6ffd6083144b0150f09670e426252776"
+        }
+      },
+      "jquery-ui": {
+        "previous": [],
+        "current": {
+          "score": 7.8,
+          "date": "2025-07-28",
+          "commit": "aafc5a8116d741b96f15c2b0024c49f8f9158689"
+        }
+      },
+      "jquery-color": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-28",
+          "commit": "e5e6dccd83b7748e4fe29c505301f79897ede190"
+        }
+      },
+      "api.jquery.com": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "3bf7eeddf19e28fd1a8b1240e73f7316111393c0"
+        }
+      },
+      "learn.jquery.com": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-28",
+          "commit": "a3b8479364d7599dc6e7a177b7c1ed37bd234079"
+        }
+      },
+      "jquery-wp-content": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-28",
+          "commit": "b767d653c95041fdbee72e587033271e0630063f"
+        }
+      },
+      "jquery-migrate": {
+        "previous": [],
+        "current": {
+          "score": 7.1,
+          "date": "2025-07-28",
+          "commit": "b45d8aaeb9d07b6e7ea4df5168419eebef334bc3"
+        }
+      },
+      "jquery-simulate": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "a68ce63fe53fac1db870dc7e20f87784db844393"
+        }
+      },
+      "eslint-config-jquery": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "a06b80a4645485d01e4dc6587a6dadb9b546d071"
+        }
+      },
+      "jquery-dist": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-28",
+          "commit": "840175def67d088dce4cb85622d798011c2e3747"
+        }
+      },
+      "jquery-license": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "f58cefa0de01f6b2942cec09e43ff53a8eacb4b9"
+        }
+      },
+      "download.jqueryui.com": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "35fb71dc201d74309c73dd01bc3028651b73ae88"
+        }
+      },
+      "grunt-jquery-content": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "a8c00fa2ea22d9a9ea55816ab946908ebf25919a"
+        }
+      }
+    }
+  }
+}

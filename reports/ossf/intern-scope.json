@@ -1,0 +1,17 @@
+{
+  "github.com": {
+    "theintern": {
+      "included": [
+        "intern",
+        "visual-plugin",
+        "digdug",
+        "intern-a11y",
+        "cli",
+        "leadfoot",
+        "dev",
+        "common"
+      ],
+      "excluded": []
+    }
+  }
+}

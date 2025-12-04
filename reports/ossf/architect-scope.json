@@ -1,0 +1,29 @@
+{
+  "github.com": {
+    "architect": {
+      "included": [
+        "functions",
+        "parser",
+        "architect",
+        "arc.codes",
+        "sandbox",
+        "hydrate",
+        "package",
+        "utils",
+        "deploy",
+        "logs",
+        "repl",
+        "env",
+        "asap",
+        "create",
+        "eslint-config",
+        "destroy",
+        "macro-node-prune",
+        "macro-http-api",
+        "markdown-it-arc-static-img",
+        "inventory"
+      ],
+      "excluded": []
+    }
+  }
+}

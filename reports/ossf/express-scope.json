@@ -1,0 +1,110 @@
+{
+  "github.com": {
+    "expressjs": {
+      "included": [
+        "expressjs.com",
+        "express",
+        "cors",
+        "compression",
+        "response-time",
+        "basic-auth-connect",
+        "generator",
+        "multer",
+        "body-parser",
+        "serve-favicon",
+        "serve-index",
+        "cookie-parser",
+        "cookie-session",
+        "errorhandler",
+        "timeout",
+        "vhost",
+        "session",
+        "method-override",
+        "morgan",
+        "serve-static",
+        "codemod"
+      ],
+      "excluded": [
+        "api-error-handler",
+        "connect-markdown",
+        "connect-multiparty",
+        "connect-rid",
+        "csurf",
+        "badgeboard",
+        "domain-middleware",
+        "express-expose",
+        "express-namespace",
+        "express-paginate",
+        "expressjs.github.io",
+        "flash",
+        "mime-extended",
+        "restful-router",
+        "routification",
+        "set-type",
+        "vhostess",
+        "urlrouter"
+      ]
+    },
+    "jshttp": {
+      "included": [
+        "on-finished",
+        "accepts",
+        "negotiator",
+        "range-parser",
+        "basic-auth",
+        "methods",
+        "http-assert",
+        "cookie",
+        "fresh",
+        "compressible",
+        "on-headers",
+        "etag",
+        "statuses",
+        "type-is",
+        "vary",
+        "media-typer",
+        "proxy-addr",
+        "mime-types",
+        "content-type",
+        "content-disposition",
+        "http-errors",
+        "forwarded",
+        "mime-db"
+      ],
+      "excluded": [
+        "http-utils",
+        "http-push",
+        "jshttp.github.io",
+        "spdy-push"
+      ]
+    },
+    "pillarjs": {
+      "included": [
+        "parseurl",
+        "send",
+        "path-to-regexp",
+        "resolve-path",
+        "hbs",
+        "cookies",
+        "multiparty",
+        "csrf",
+        "router",
+        "finalhandler",
+        "encodeurl"
+      ],
+      "excluded": [
+        "discussions",
+        "node-frameworks",
+        "pillarjs.github.io",
+        "path-match",
+        "routington",
+        "views",
+        "extend-proto",
+        "qs-strict",
+        "request",
+        "ssl-redirect",
+        "templation"
+      ]
+    }
+  }
+}

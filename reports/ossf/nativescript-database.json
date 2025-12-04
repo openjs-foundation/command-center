@@ -1,0 +1,410 @@
+{
+  "github.com": {
+    "NativeScript": {
+      "nativescript-marketplace-demo": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "ec055adfb1e80e8d6145af9139694bd74007c22e"
+        }
+      },
+      "nativescript-plugin-google-play-services": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "583554f4d56bb7b201e70cd192046ca386d174fa"
+        }
+      },
+      "karma-nativescript-launcher": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "059518147d3200bbb01ca66216ad2776e4ab6f02"
+        }
+      },
+      "nativescript-cli": {
+        "previous": [
+          {
+            "score": 4.1,
+            "date": "2025-07-28",
+            "commit": "de2cb8c1e68bfbf0c7651a440bbaff72de27cf50"
+          }
+        ],
+        "current": {
+          "score": 7.4,
+          "date": "2025-09-16T07:26:25Z",
+          "commit": "96ecae76bd636db134958e428b6a35c0aefdb520"
+        }
+      },
+      "nativescript-angular": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-28",
+          "commit": "352c5a9d0fc7a7b1cb1ffea0c14e808d7a4801ea"
+        }
+      },
+      "nativescript-background-http": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "b79f5140195d22af21c6818e166d113a13cc88e2"
+        }
+      },
+      "sample-Groceries": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-28",
+          "commit": "7b0cca917754dcc5f121529aad531d7c5d63b5a8"
+        }
+      },
+      "nativescript-plugin-appcompat": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "628570858eebd6f8e11ac5b633d37b94b03828d9"
+        }
+      },
+      "push-plugin": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "160f378093c0421c75534e9e8bd0910c0c504b40"
+        }
+      },
+      "NativeScript": {
+        "previous": [
+          {
+            "score": 6.1,
+            "date": "2025-07-30T13:36:43Z",
+            "commit": "c0051c65faadfdcf3c6a3c16af4ee3a574442e82"
+          }
+        ],
+        "current": {
+          "score": 6.5,
+          "date": "2025-09-16T15:41:30Z",
+          "commit": "d6d38008840b90fac4d2098de124abab0c69416b"
+        }
+      },
+      "plist-merge-patch": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-28",
+          "commit": "9f8c5c537312822d4ea8a2ff12757e431d76b703"
+        }
+      },
+      "nativescript-dev-xmlxsd": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "619f4e1bf054dcb1cc1cf9bbe65cb72396587efb"
+        }
+      },
+      "nativescript-dev-jade": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "86b1a1c4aa58b44adc1f9ffb02c2e1f10274f5dc"
+        }
+      },
+      "nativescript-dev-babel": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "3b0e7bb7f407e53af67a15b32bd5a2d9a3bbf21c"
+        }
+      },
+      "nativescript-geolocation": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-28",
+          "commit": "2100c0b6d74bbe47c370791545ad0c8a1254b2d3"
+        }
+      },
+      "nativescript-unit-test-runner": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-28",
+          "commit": "c08ee27d61eae304bd73f5c94184c2a4d2350176"
+        }
+      },
+      "nativescript-hook": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "690ee9431f24d65d7bc28faecbdbfd35f583e8ef"
+        }
+      },
+      "nativescript-dev-coffeescript": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "a2fc8c6eccdaca23317294ca51a5f0ccd9378c17"
+        }
+      },
+      "nativescript-imagepicker": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "82a8c1b6fde08111c1d4f169e291a07773331c56"
+        }
+      },
+      "nativescript-dev-typescript": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "34a0bd057dd993752e85eab8cd667b1c90fafce8"
+        }
+      },
+      "nativescript-googlemaps": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-07-28",
+          "commit": "62efd2f9af7bc60926e14bf196b23ef1735c1e33"
+        }
+      },
+      "nativescript-fresco": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-28",
+          "commit": "5270abe5c122993150debea5cbe42eccc5776378"
+        }
+      },
+      "nativescript-sdk-examples-ng": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "4d1e4a1f2f2cd0108c2129e155b9168e76d277c0"
+        }
+      },
+      "theme": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-28",
+          "commit": "d8482ed20b499dbe413499a7a538c7ccb077efec"
+        }
+      },
+      "acra-telerik-analytics": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "bf6c42906743c4ebfba31788fe1f0803c41d0142"
+        }
+      },
+      "nativescript-camera": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "68eb8acb4d2616eacc88323e551401d7fdcebb26"
+        }
+      },
+      "nativescript-doctor": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "d2bd3e5d21ce621add0a89a7c5bd31afd51167e6"
+        }
+      },
+      "nativescript-dev-appium": {
+        "previous": [],
+        "current": {
+          "score": 4.8,
+          "date": "2025-07-28",
+          "commit": "8744490b12d95bcd0478ba76f18a7aa60688b1f2"
+        }
+      },
+      "nativescript-dev-webpack": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "6fe8e32f893b0081cf3307cb8a664198966ce29e"
+        }
+      },
+      "nativescript-dev-less": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-28",
+          "commit": "6344e50daf6e16d4bcfbdf6017060c62418a60b9"
+        }
+      },
+      "nativescript-brightness": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2025-07-28",
+          "commit": "cce97091d50bb7685cc166a5ef3b31b89dca86c8"
+        }
+      },
+      "nativescript-picker": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "36c1fdfbf944e7a5197ed5ea40bcafdd42d12788"
+        }
+      },
+      "nativescript-dev-debugging": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2025-07-28",
+          "commit": "a3bad8a11b04aecab4fd17806c336998a8cf88cd"
+        }
+      },
+      "ios-mobileprovision-finder": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-28",
+          "commit": "c48faefd37d15613c528646ba55e583500db0c79"
+        }
+      },
+      "worker-loader": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-28",
+          "commit": "5f034f7b3906442eed2d14a51125caa397a096c7"
+        }
+      },
+      "mobile-devices-controller": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-28",
+          "commit": "aa8079b7e4a106d62f075cd124facd7bec9dae65"
+        }
+      },
+      "nativescript-app-templates": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "62cc004c2a2971fbdbb5bd3cdddd72a2dd71df77"
+        }
+      },
+      "nativescript-facebook": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-28",
+          "commit": "7ea2d34be522e9de036ae80ee284ce9d46ed8f89"
+        }
+      },
+      "schematics-executor": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-28",
+          "commit": "0c1011d47232d7c1f67b81546bf066e5e50258e1"
+        }
+      },
+      "nativescript-app-encryption": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "05ac808d14b1b69a2c188076d65a42efc46ce7c0"
+        }
+      },
+      "nativescript-ui-charts": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-28",
+          "commit": "78cb53c8042999a8468b9aec2247152e0fa40a60"
+        }
+      },
+      "canvas": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "cc0285823f588e87b00f398b2d66b06f9a04e781"
+        }
+      },
+      "docs": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-07-28",
+          "commit": "16630188c89eb04864f80249fae7d9e9fe475ead"
+        }
+      },
+      "plugins": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-28",
+          "commit": "e3889ad008f87c6f5fbb889eb8bcaa61577d6fdd"
+        }
+      },
+      "nativescript-dev-xcode": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-28",
+          "commit": "748f1801e58159a5233b60046b9f566873bf76db"
+        }
+      },
+      "capacitor": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-28",
+          "commit": "203b85f65af1c7e2a6bb16f3de2d369c9f4bda44"
+        }
+      },
+      "nativescript-datetimepicker": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "a9604fad6dec5dc25ed1a7165c1c86bfffe9985b"
+        }
+      },
+      "plugin-tools": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "c5cd4031071ed44c76c789a50e8e5973b90a7d99"
+        }
+      },
+      "nativescript-remote-builds": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "e9ac4477f5b330a567fff79bf72603041aa42415"
+        }
+      }
+    }
+  }
+}

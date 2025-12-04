@@ -1,0 +1,150 @@
+{
+  "github.com": {
+    "ampproject": {
+      "amphtml": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2025-07-31T20:03:34Z",
+          "commit": "f2398bddfad6e04627df83cd92e6cf6af3246c02"
+        }
+      },
+      "amppackager": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-07-28",
+          "commit": "57974efc943c09fec5e5d3cd4b95e70a482946f9"
+        }
+      },
+      "samples": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-28",
+          "commit": "d644490111e09f07542a9138928ee48e4c620097"
+        }
+      },
+      "animations": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "994c83f0703bea1f1b63d4b75acd2047272d46de"
+        }
+      },
+      "ampbench": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-28",
+          "commit": "e099857bee4b72e6b8eaddbed2eefb95fe018f4e"
+        }
+      },
+      "amp-wp": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-28",
+          "commit": "7b4ed4c001cdc0fbf9adb518fb0b8e1ddebf4d5a"
+        }
+      },
+      "amp-by-example": {
+        "previous": [],
+        "current": {
+          "score": 2.5,
+          "date": "2025-07-28",
+          "commit": "9217bb4f78fade77650dd487e99760b3d941a7e1"
+        }
+      },
+      "amp.dev": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-28",
+          "commit": "020570571cba405f267e7e79d599eb85052a5cd5"
+        }
+      },
+      "ampstart": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "6351bcb66cbe218d08a67e7f7b5ac7b2d4028160"
+        }
+      },
+      "rollup-plugin-closure-compiler": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-28",
+          "commit": "7ec95e00d7cc08e9fb168e0eb5a3e2ff66a0d5d7"
+        }
+      },
+      "validator-java": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "7926c52e7744a59e7645e421c3d553aa42762afe"
+        }
+      },
+      "amp-sw": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "f31a4938f826e1e8676762c73472c09c0de5eb07"
+        }
+      },
+      "worker-dom": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-28",
+          "commit": "52b619eb46416c4325306de851e5a9df99697fcb"
+        }
+      },
+      "eleventy-plugin-amp": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-28",
+          "commit": "e1b386155b0eaebe4f935fda2cc3fe243e2bbb71"
+        }
+      },
+      "remapping": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-28",
+          "commit": "59324ce17a7059c84130c5c5d1b46f501f64bf75"
+        }
+      },
+      "amp-toolbox": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-07-28",
+          "commit": "d9a213b7a8245f176c9508fdf7dcd1255670aa4e"
+        }
+      },
+      "filesize": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-28",
+          "commit": "868a74e43ce058caac0a08595664d4db99e14c48"
+        }
+      },
+      "storybook-addon-amp": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-28",
+          "commit": "5e9f3c026bcf4b310566d244210c575b5f687e97"
+        }
+      }
+    }
+  }
+}

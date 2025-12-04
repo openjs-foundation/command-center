@@ -1,0 +1,10 @@
+{
+  "github.com": {
+    "nvm-sh": {
+      "included": [
+        "nvm"
+      ],
+      "excluded": []
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "github.com": {
+    "keplergl": {
+      "included": [
+        "kepler.gl"
+      ],
+      "excluded": []
+    }
+  }
+}

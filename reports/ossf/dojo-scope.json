@@ -1,0 +1,50 @@
+{
+  "github.com": {
+    "dojo": {
+      "included": [
+        "dijit",
+        "dojo",
+        "dojox",
+        "util",
+        "dijit-themes",
+        "dom",
+        "loader",
+        "i18n",
+        "core",
+        "routing",
+        "actions",
+        "grunt-dojo2",
+        "shim",
+        "compose",
+        "stores",
+        "typings",
+        "widget-core",
+        "cli",
+        "app",
+        "cli-create-app",
+        "streams",
+        "cli-css-typings",
+        "has",
+        "interfaces",
+        "cli-test-intern",
+        "grunt-dojo2-extras",
+        "static-optimize-plugin",
+        "interop",
+        "widgets",
+        "cli-create-widget",
+        "webpack-contrib",
+        "test-extras",
+        "cli-export-project",
+        "scripts",
+        "cli-create-theme",
+        "cli-build-widget",
+        "cli-upgrade-app",
+        "themes",
+        "cli-build-app",
+        "framework",
+        "cli-build-theme"
+      ],
+      "excluded": []
+    }
+  }
+}

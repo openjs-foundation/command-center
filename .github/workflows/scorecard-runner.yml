@@ -1,0 +1,127 @@
+name: "[Scorecard] Report Runner"
+on: 
+  workflow_dispatch:
+    inputs:
+      project:
+        description: 'Specific project to run (leave empty to run all)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write 
+  issues: write
+  packages: none
+
+jobs:
+  # First job to determine which projects to run based on input
+  determine-projects:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - id: set-matrix
+        run: |
+          if [ -z "${{ github.event.inputs.project }}" ]; then
+            # If no specific project is specified, run all projects
+            echo 'matrix={"include":[{"name":"Node.js","id":"nodejs","scope_path":"reports/ossf/nodejs-scope.json","database_path":"reports/ossf/nodejs-database.json","report_path":"reports/ossf/nodejs.md","issue_labels":"ossf-scorecard,nodejs","discovery_orgs":"nodejs","branch_suffix":"nodejs"},{"name":"Moment","id":"moment","scope_path":"reports/ossf/moment-scope.json","database_path":"reports/ossf/moment-database.json","report_path":"reports/ossf/moment.md","issue_labels":"ossf-scorecard,moment","discovery_orgs":"moment","branch_suffix":"moment"},{"name":"Express","id":"express","scope_path":"reports/ossf/express-scope.json","database_path":"reports/ossf/express-database.json","report_path":"reports/ossf/express.md","issue_labels":"ossf-scorecard,express","discovery_orgs":"expressjs,jshttp,pillarjs","branch_suffix":"express"},{"name":"Electron","id":"electron","scope_path":"reports/ossf/electron-scope.json","database_path":"reports/ossf/electron-database.json","report_path":"reports/ossf/electron.md","issue_labels":"ossf-scorecard,electron","discovery_orgs":"electron","branch_suffix":"electron"},{"name":"Appium","id":"appium","scope_path":"reports/ossf/appium-scope.json","database_path":"reports/ossf/appium-database.json","report_path":"reports/ossf/appium.md","issue_labels":"ossf-scorecard,appium","discovery_orgs":"appium","branch_suffix":"appium"},{"name":"Cosmos.gl","id":"cosmosgl","scope_path":"reports/ossf/cosmosgl-scope.json","database_path":"reports/ossf/cosmosgl-database.json","report_path":"reports/ossf/cosmosgl.md","issue_labels":"ossf-scorecard,cosmosgl","discovery_orgs":"cosmosgl","branch_suffix":"cosmosgl"},{"name":"Dojo","id":"dojo","scope_path":"reports/ossf/dojo-scope.json","database_path":"reports/ossf/dojo-database.json","report_path":"reports/ossf/dojo.md","issue_labels":"ossf-scorecard,dojo","discovery_orgs":"dojo","branch_suffix":"dojo"},{"name":"HospitalRun","id":"hospitalrun","scope_path":"reports/ossf/hospitalrun-scope.json","database_path":"reports/ossf/hospitalrun-database.json","report_path":"reports/ossf/hospitalrun.md","issue_labels":"ossf-scorecard,hospitalrun","discovery_orgs":"hospitalrun","branch_suffix":"hospitalrun"},{"name":"jQuery","id":"jquery","scope_path":"reports/ossf/jquery-scope.json","database_path":"reports/ossf/jquery-database.json","report_path":"reports/ossf/jquery.md","issue_labels":"ossf-scorecard,jquery","discovery_orgs":"jquery,jquery-archive","branch_suffix":"jquery"},{"name":"Kepler.gl","id":"keplergl","scope_path":"reports/ossf/keplergl-scope.json","database_path":"reports/ossf/keplergl-database.json","report_path":"reports/ossf/keplergl.md","issue_labels":"ossf-scorecard,keplergl","discovery_orgs":"keplergl","branch_suffix":"keplergl"},{"name":"Node-RED","id":"node-red","scope_path":"reports/ossf/node-red-scope.json","database_path":"reports/ossf/node-red-database.json","report_path":"reports/ossf/node-red.md","issue_labels":"ossf-scorecard,node-red","discovery_orgs":"node-red","branch_suffix":"node-red"},{"name":"nvm","id":"nvm","scope_path":"reports/ossf/nvm-scope.json","database_path":"reports/ossf/nvm-database.json","report_path":"reports/ossf/nvm.md","issue_labels":"ossf-scorecard,nvm","discovery_orgs":"nvm-sh","branch_suffix":"nvm"},{"name":"QUnit","id":"qunit","scope_path":"reports/ossf/qunit-scope.json","database_path":"reports/ossf/qunit-database.json","report_path":"reports/ossf/qunit.md","issue_labels":"ossf-scorecard,qunit","discovery_orgs":"qunitjs","branch_suffix":"qunit"},{"name":"RequireJS","id":"requirejs","scope_path":"reports/ossf/requirejs-scope.json","database_path":"reports/ossf/requirejs-database.json","report_path":"reports/ossf/requirejs.md","issue_labels":"ossf-scorecard,requirejs","discovery_orgs":"requirejs","branch_suffix":"requirejs"},{"name":"vis.gl","id":"visgl","scope_path":"reports/ossf/visgl-scope.json","database_path":"reports/ossf/visgl-database.json","report_path":"reports/ossf/visgl.md","issue_labels":"ossf-scorecard,visgl","discovery_orgs":"visgl","branch_suffix":"visgl"},{"name":"WebdriverIO","id":"webdriverio","scope_path":"reports/ossf/webdriverio-scope.json","database_path":"reports/ossf/webdriverio-database.json","report_path":"reports/ossf/webdriverio.md","issue_labels":"ossf-scorecard,webdriverio","discovery_orgs":"webdriverio","branch_suffix":"webdriverio"},{"name":"webhint","id":"webhint","scope_path":"reports/ossf/webhint-scope.json","database_path":"reports/ossf/webhint-database.json","report_path":"reports/ossf/webhint.md","issue_labels":"ossf-scorecard,webhint","discovery_orgs":"webhintio","branch_suffix":"webhint"},{"name":"Webpack","id":"webpack","scope_path":"reports/ossf/webpack-scope.json","database_path":"reports/ossf/webpack-database.json","report_path":"reports/ossf/webpack.md","issue_labels":"ossf-scorecard,webpack","discovery_orgs":"webpack","branch_suffix":"webpack"},{"name":"AMP","id":"amp","scope_path":"reports/ossf/amp-scope.json","database_path":"reports/ossf/amp-database.json","report_path":"reports/ossf/amp.md","issue_labels":"ossf-scorecard,amp","discovery_orgs":"ampproject","branch_suffix":"amp"},{"name":"Architect","id":"architect","scope_path":"reports/ossf/architect-scope.json","database_path":"reports/ossf/architect-database.json","report_path":"reports/ossf/architect.md","issue_labels":"ossf-scorecard,architect","discovery_orgs":"architect","branch_suffix":"architect"},{"name":"ESLint","id":"eslint","scope_path":"reports/ossf/eslint-scope.json","database_path":"reports/ossf/eslint-database.json","report_path":"reports/ossf/eslint.md","issue_labels":"ossf-scorecard,eslint","discovery_orgs":"eslint","branch_suffix":"eslint"},{"name":"Fastify","id":"fastify","scope_path":"reports/ossf/fastify-scope.json","database_path":"reports/ossf/fastify-database.json","report_path":"reports/ossf/fastify.md","issue_labels":"ossf-scorecard,fastify","discovery_orgs":"fastify","branch_suffix":"fastify"},{"name":"Globalize","id":"globalize","scope_path":"reports/ossf/globalize-scope.json","database_path":"reports/ossf/globalize-database.json","report_path":"reports/ossf/globalize.md","issue_labels":"ossf-scorecard,globalize","discovery_orgs":"globalizejs","branch_suffix":"globalize"},{"name":"Grunt","id":"grunt","scope_path":"reports/ossf/grunt-scope.json","database_path":"reports/ossf/grunt-database.json","report_path":"reports/ossf/grunt.md","issue_labels":"ossf-scorecard,grunt","discovery_orgs":"gruntjs","branch_suffix":"grunt"},{"name":"Interledger.js","id":"interledger","scope_path":"reports/ossf/interledger-scope.json","database_path":"reports/ossf/interledger-database.json","report_path":"reports/ossf/interledger.md","issue_labels":"ossf-scorecard,interledger","discovery_orgs":"interledger","branch_suffix":"interledger"},{"name":"Intern","id":"intern","scope_path":"reports/ossf/intern-scope.json","database_path":"reports/ossf/intern-database.json","report_path":"reports/ossf/intern.md","issue_labels":"ossf-scorecard,intern","discovery_orgs":"theintern","branch_suffix":"intern"},{"name":"NativeScript","id":"nativescript","scope_path":"reports/ossf/nativescript-scope.json","database_path":"reports/ossf/nativescript-database.json","report_path":"reports/ossf/nativescript.md","issue_labels":"ossf-scorecard,nativescript","discovery_orgs":"NativeScript","branch_suffix":"nativescript"},{"name":"JerryScript","id":"jerryscript","scope_path":"reports/ossf/jerryscript-scope.json","database_path":"reports/ossf/jerryscript-database.json","report_path":"reports/ossf/jerryscript.md","issue_labels":"ossf-scorecard,jerryscript","discovery_orgs":"jerryscript-project","branch_suffix":"jerryscript"},{"name":"Jest","id":"jest","scope_path":"reports/ossf/jest-scope.json","database_path":"reports/ossf/jest-database.json","report_path":"reports/ossf/jest.md","issue_labels":"ossf-scorecard,jest","discovery_orgs":"jestjs","branch_suffix":"jest"},{"name":"LoopBack","id":"loopback","scope_path":"reports/ossf/loopback-scope.json","database_path":"reports/ossf/loopback-database.json","report_path":"reports/ossf/loopback.md","issue_labels":"ossf-scorecard,loopback","discovery_orgs":"loopbackio","branch_suffix":"loopback"},{"name":"Lodash","id":"lodash","scope_path":"reports/ossf/lodash-scope.json","database_path":"reports/ossf/lodash-database.json","report_path":"reports/ossf/lodash.md","issue_labels":"ossf-scorecard,lodash","discovery_orgs":"lodash","branch_suffix":"lodash"},{"name":"Marko","id":"marko","scope_path":"reports/ossf/marko-scope.json","database_path":"reports/ossf/marko-database.json","report_path":"reports/ossf/marko.md","issue_labels":"ossf-scorecard,marko","discovery_orgs":"marko-js","branch_suffix":"marko"},{"name":"messageformat","id":"messageformat","scope_path":"reports/ossf/messageformat-scope.json","database_path":"reports/ossf/messageformat-database.json","report_path":"reports/ossf/messageformat.md","issue_labels":"ossf-scorecard,messageformat","discovery_orgs":"messageformat","branch_suffix":"messageformat"},{"name":"Mocha","id":"mocha","scope_path":"reports/ossf/mocha-scope.json","database_path":"reports/ossf/mocha-database.json","report_path":"reports/ossf/mocha.md","issue_labels":"ossf-scorecard,mocha","discovery_orgs":"mochajs","branch_suffix":"mocha"}]}' >> $GITHUB_OUTPUT
+          else
+            # If a specific project is specified, filter to only run that project
+            PROJECTS='{"include":[]}'
+            
+            # Define all projects
+            ALL_PROJECTS='[
+              {"name":"Node.js","id":"nodejs","scope_path":"reports/ossf/nodejs-scope.json","database_path":"reports/ossf/nodejs-database.json","report_path":"reports/ossf/nodejs.md","issue_labels":"ossf-scorecard,nodejs","discovery_orgs":"nodejs","branch_suffix":"nodejs"},
+              {"name":"Moment","id":"moment","scope_path":"reports/ossf/moment-scope.json","database_path":"reports/ossf/moment-database.json","report_path":"reports/ossf/moment.md","issue_labels":"ossf-scorecard,moment","discovery_orgs":"moment","branch_suffix":"moment"},
+              {"name":"Express","id":"express","scope_path":"reports/ossf/express-scope.json","database_path":"reports/ossf/express-database.json","report_path":"reports/ossf/express.md","issue_labels":"ossf-scorecard,express","discovery_orgs":"expressjs,jshttp,pillarjs","branch_suffix":"express"},
+              {"name":"Electron","id":"electron","scope_path":"reports/ossf/electron-scope.json","database_path":"reports/ossf/electron-database.json","report_path":"reports/ossf/electron.md","issue_labels":"ossf-scorecard,electron","discovery_orgs":"electron","branch_suffix":"electron"},
+              {"name":"Appium","id":"appium","scope_path":"reports/ossf/appium-scope.json","database_path":"reports/ossf/appium-database.json","report_path":"reports/ossf/appium.md","issue_labels":"ossf-scorecard,appium","discovery_orgs":"appium","branch_suffix":"appium"},
+              {"name":"Cosmos.gl","id":"cosmosgl","scope_path":"reports/ossf/cosmosgl-scope.json","database_path":"reports/ossf/cosmosgl-database.json","report_path":"reports/ossf/cosmosgl.md","issue_labels":"ossf-scorecard,cosmosgl","discovery_orgs":"cosmosgl","branch_suffix":"cosmosgl"},
+              {"name":"Dojo","id":"dojo","scope_path":"reports/ossf/dojo-scope.json","database_path":"reports/ossf/dojo-database.json","report_path":"reports/ossf/dojo.md","issue_labels":"ossf-scorecard,dojo","discovery_orgs":"dojo","branch_suffix":"dojo"},
+              {"name":"HospitalRun","id":"hospitalrun","scope_path":"reports/ossf/hospitalrun-scope.json","database_path":"reports/ossf/hospitalrun-database.json","report_path":"reports/ossf/hospitalrun.md","issue_labels":"ossf-scorecard,hospitalrun","discovery_orgs":"hospitalrun","branch_suffix":"hospitalrun"},
+              {"name":"jQuery","id":"jquery","scope_path":"reports/ossf/jquery-scope.json","database_path":"reports/ossf/jquery-database.json","report_path":"reports/ossf/jquery.md","issue_labels":"ossf-scorecard,jquery","discovery_orgs":"jquery,jquery-archive","branch_suffix":"jquery"},
+              {"name":"Kepler.gl","id":"keplergl","scope_path":"reports/ossf/keplergl-scope.json","database_path":"reports/ossf/keplergl-database.json","report_path":"reports/ossf/keplergl.md","issue_labels":"ossf-scorecard,keplergl","discovery_orgs":"keplergl","branch_suffix":"keplergl"},
+              {"name":"Node-RED","id":"node-red","scope_path":"reports/ossf/node-red-scope.json","database_path":"reports/ossf/node-red-database.json","report_path":"reports/ossf/node-red.md","issue_labels":"ossf-scorecard,node-red","discovery_orgs":"node-red","branch_suffix":"node-red"},
+              {"name":"nvm","id":"nvm","scope_path":"reports/ossf/nvm-scope.json","database_path":"reports/ossf/nvm-database.json","report_path":"reports/ossf/nvm.md","issue_labels":"ossf-scorecard,nvm","discovery_orgs":"nvm-sh","branch_suffix":"nvm"},
+              {"name":"QUnit","id":"qunit","scope_path":"reports/ossf/qunit-scope.json","database_path":"reports/ossf/qunit-database.json","report_path":"reports/ossf/qunit.md","issue_labels":"ossf-scorecard,qunit","discovery_orgs":"qunitjs","branch_suffix":"qunit"},
+              {"name":"RequireJS","id":"requirejs","scope_path":"reports/ossf/requirejs-scope.json","database_path":"reports/ossf/requirejs-database.json","report_path":"reports/ossf/requirejs.md","issue_labels":"ossf-scorecard,requirejs","discovery_orgs":"requirejs","branch_suffix":"requirejs"},
+              {"name":"vis.gl","id":"visgl","scope_path":"reports/ossf/visgl-scope.json","database_path":"reports/ossf/visgl-database.json","report_path":"reports/ossf/visgl.md","issue_labels":"ossf-scorecard,visgl","discovery_orgs":"visgl","branch_suffix":"visgl"},
+              {"name":"WebdriverIO","id":"webdriverio","scope_path":"reports/ossf/webdriverio-scope.json","database_path":"reports/ossf/webdriverio-database.json","report_path":"reports/ossf/webdriverio.md","issue_labels":"ossf-scorecard,webdriverio","discovery_orgs":"webdriverio","branch_suffix":"webdriverio"},
+              {"name":"webhint","id":"webhint","scope_path":"reports/ossf/webhint-scope.json","database_path":"reports/ossf/webhint-database.json","report_path":"reports/ossf/webhint.md","issue_labels":"ossf-scorecard,webhint","discovery_orgs":"webhintio","branch_suffix":"webhint"},
+              {"name":"Webpack","id":"webpack","scope_path":"reports/ossf/webpack-scope.json","database_path":"reports/ossf/webpack-database.json","report_path":"reports/ossf/webpack.md","issue_labels":"ossf-scorecard,webpack","discovery_orgs":"webpack","branch_suffix":"webpack"},
+              {"name":"AMP","id":"amp","scope_path":"reports/ossf/amp-scope.json","database_path":"reports/ossf/amp-database.json","report_path":"reports/ossf/amp.md","issue_labels":"ossf-scorecard,amp","discovery_orgs":"ampproject","branch_suffix":"amp"},
+              {"name":"Architect","id":"architect","scope_path":"reports/ossf/architect-scope.json","database_path":"reports/ossf/architect-database.json","report_path":"reports/ossf/architect.md","issue_labels":"ossf-scorecard,architect","discovery_orgs":"architect","branch_suffix":"architect"},
+              {"name":"ESLint","id":"eslint","scope_path":"reports/ossf/eslint-scope.json","database_path":"reports/ossf/eslint-database.json","report_path":"reports/ossf/eslint.md","issue_labels":"ossf-scorecard,eslint","discovery_orgs":"eslint","branch_suffix":"eslint"},
+              {"name":"Fastify","id":"fastify","scope_path":"reports/ossf/fastify-scope.json","database_path":"reports/ossf/fastify-database.json","report_path":"reports/ossf/fastify.md","issue_labels":"ossf-scorecard,fastify","discovery_orgs":"fastify","branch_suffix":"fastify"},
+              {"name":"Globalize","id":"globalize","scope_path":"reports/ossf/globalize-scope.json","database_path":"reports/ossf/globalize-database.json","report_path":"reports/ossf/globalize.md","issue_labels":"ossf-scorecard,globalize","discovery_orgs":"globalizejs","branch_suffix":"globalize"},
+              {"name":"Grunt","id":"grunt","scope_path":"reports/ossf/grunt-scope.json","database_path":"reports/ossf/grunt-database.json","report_path":"reports/ossf/grunt.md","issue_labels":"ossf-scorecard,grunt","discovery_orgs":"gruntjs","branch_suffix":"grunt"},
+              {"name":"Interledger.js","id":"interledger","scope_path":"reports/ossf/interledger-scope.json","database_path":"reports/ossf/interledger-database.json","report_path":"reports/ossf/interledger.md","issue_labels":"ossf-scorecard,interledger","discovery_orgs":"interledger","branch_suffix":"interledger"},
+              {"name":"Intern","id":"intern","scope_path":"reports/ossf/intern-scope.json","database_path":"reports/ossf/intern-database.json","report_path":"reports/ossf/intern.md","issue_labels":"ossf-scorecard,intern","discovery_orgs":"theintern","branch_suffix":"intern"},
+              {"name":"NativeScript","id":"nativescript","scope_path":"reports/ossf/nativescript-scope.json","database_path":"reports/ossf/nativescript-database.json","report_path":"reports/ossf/nativescript.md","issue_labels":"ossf-scorecard,nativescript","discovery_orgs":"NativeScript","branch_suffix":"nativescript"},
+              {"name":"JerryScript","id":"jerryscript","scope_path":"reports/ossf/jerryscript-scope.json","database_path":"reports/ossf/jerryscript-database.json","report_path":"reports/ossf/jerryscript.md","issue_labels":"ossf-scorecard,jerryscript","discovery_orgs":"jerryscript-project","branch_suffix":"jerryscript"},
+              {"name":"Jest","id":"jest","scope_path":"reports/ossf/jest-scope.json","database_path":"reports/ossf/jest-database.json","report_path":"reports/ossf/jest.md","issue_labels":"ossf-scorecard,jest","discovery_orgs":"jestjs","branch_suffix":"jest"},
+              {"name":"LoopBack","id":"loopback","scope_path":"reports/ossf/loopback-scope.json","database_path":"reports/ossf/loopback-database.json","report_path":"reports/ossf/loopback.md","issue_labels":"ossf-scorecard,loopback","discovery_orgs":"loopbackio","branch_suffix":"loopback"},
+              {"name":"Lodash","id":"lodash","scope_path":"reports/ossf/lodash-scope.json","database_path":"reports/ossf/lodash-database.json","report_path":"reports/ossf/lodash.md","issue_labels":"ossf-scorecard,lodash","discovery_orgs":"lodash","branch_suffix":"lodash"},
+              {"name":"Marko","id":"marko","scope_path":"reports/ossf/marko-scope.json","database_path":"reports/ossf/marko-database.json","report_path":"reports/ossf/marko.md","issue_labels":"ossf-scorecard,marko","discovery_orgs":"marko-js","branch_suffix":"marko"},
+              {"name":"messageformat","id":"messageformat","scope_path":"reports/ossf/messageformat-scope.json","database_path":"reports/ossf/messageformat-database.json","report_path":"reports/ossf/messageformat.md","issue_labels":"ossf-scorecard,messageformat","discovery_orgs":"messageformat","branch_suffix":"messageformat"},
+              {"name":"Mocha","id":"mocha","scope_path":"reports/ossf/mocha-scope.json","database_path":"reports/ossf/mocha-database.json","report_path":"reports/ossf/mocha.md","issue_labels":"ossf-scorecard,mocha","discovery_orgs":"mochajs","branch_suffix":"mocha"},
+              {"name":"GeoDa.AI","id":"geodaai","scope_path":"reports/ossf/geodaai-scope.json","database_path":"reports/ossf/geodaai-database.json","report_path":"reports/ossf/geodaai.md","issue_labels":"ossf-scorecard,geodaai","discovery_orgs":"geodaai","branch_suffix":"geodaai"}
+            ]'
+            
+            # Find the project that matches the input
+            PROJECT_ID="${{ github.event.inputs.project }}"
+            FILTERED_PROJECT=$(echo "$ALL_PROJECTS" | jq -c ".[] | select(.id == \"$PROJECT_ID\")")
+            
+            if [ -n "$FILTERED_PROJECT" ]; then
+              PROJECTS=$(echo '{"include":['$FILTERED_PROJECT']}')
+            else
+              # If no matching project is found, use an empty matrix to skip execution
+              PROJECTS='{"include":[]}'
+            fi
+            
+            echo "matrix=$PROJECTS" >> $GITHUB_OUTPUT
+          fi
+
+  # Second job to run the scorecard for each project
+  security-scoring:
+    needs: determine-projects
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.determine-projects.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: OpenSSF Scorecard Monitor for ${{ matrix.name }}
+        uses: ossf/scorecard-monitor@v2.0.0-beta8
+        id: openssf-scorecard-monitor
+        with:
+          scope: ${{ matrix.scope_path }}
+          database: ${{ matrix.database_path }}
+          report: ${{ matrix.report_path }}
+          auto-commit: false
+          auto-push: false
+          generate-issue: true
+          issue-title: "[Scorecard] ${{ matrix.name }} Report"
+          issue-labels: ${{ matrix.issue_labels }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          report-tags-enabled: true
+          discovery-enabled: true
+          discovery-orgs: ${{ matrix.discovery_orgs }}
+      
+      - name: Print the scores
+        run: |
+          echo '${{ steps.openssf-scorecard-monitor.outputs.scores }}'
+      
+      - name: Create Pull Request
+        uses: gr2m/create-or-update-pull-request-action@77596e3166f328b24613f7082ab30bf2d93079d5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            commit-message: 'docs: OpenSSF Scorecard Report Updated for ${{ matrix.name }}'
+            title: OpenSSF Scorecard Report Updated for ${{ matrix.name }}
+            body: 'OpenSSF Scorecard Report Updated for ${{ matrix.name }}'
+            assignees: ${{ github.actor }}
+            labels: ossf-scorecard
+            branch: openssf-scorecard-report-updated-${{ matrix.branch_suffix }}
+            update-pull-request-title-and-body: true

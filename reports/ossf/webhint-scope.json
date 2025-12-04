@@ -1,0 +1,12 @@
+{
+  "github.com": {
+    "webhintio": {
+      "included": [
+        "hint",
+        "markdown-link-validator",
+        "artwork"
+      ],
+      "excluded": []
+    }
+  }
+}

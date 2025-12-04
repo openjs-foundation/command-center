@@ -1,0 +1,294 @@
+{
+  "github.com": {
+    "electron": {
+      "asar": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-21",
+            "commit": "c14d903ac8f2e77c35132701b534f22f05983ab2"
+          }
+        ],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "c14d903ac8f2e77c35132701b534f22f05983ab2"
+        }
+      },
+      "electron": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-25T14:07:15Z",
+          "commit": "084c6ef549742e15375c711a9aabc20a59d970e2"
+        }
+      },
+      "rcedit": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-21",
+          "commit": "73e75709230109ff2d45b58a18d3013e268c3cc2"
+        }
+      },
+      "get": {
+        "previous": [
+          {
+            "score": 6.2,
+            "date": "2025-07-21",
+            "commit": "f7d62f10b21d94aaf800cf9ef9e8c154e95f9d1e"
+          }
+        ],
+        "current": {
+          "score": 6,
+          "date": "2025-07-28",
+          "commit": "f7d62f10b21d94aaf800cf9ef9e8c154e95f9d1e"
+        }
+      },
+      "asar-require": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-21",
+          "commit": "f118801bbe2c913b2d2e388c72d67cd01b563d70"
+        }
+      },
+      "node-chromium-pickle-js": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "72ecd4d52d8e676a595636e1ec9ba74060344137"
+        }
+      },
+      "electron-docs": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-07-21",
+          "commit": "67dc0c826da0a20711b12ed3d0893b75482273af"
+        }
+      },
+      "node-minidump": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-21",
+            "commit": "b1d8cb89cf55bfc2530312853a50d04b32959795"
+          }
+        ],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-28",
+          "commit": "b1d8cb89cf55bfc2530312853a50d04b32959795"
+        }
+      },
+      "node-rcedit": {
+        "previous": [
+          {
+            "score": 5.2,
+            "date": "2025-07-21",
+            "commit": "1174bbb1f32df24286afcb350eeb95fdaba54e89"
+          }
+        ],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-28",
+          "commit": "1174bbb1f32df24286afcb350eeb95fdaba54e89"
+        }
+      },
+      "chromedriver": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-21",
+          "commit": "79eae94675e8334039ddd60ca1087d891676bb76"
+        }
+      },
+      "electron-api-docs": {
+        "previous": [],
+        "current": {
+          "score": 2.4,
+          "date": "2025-07-21",
+          "commit": "a19afe27d536d6b7bc3b94db3eaeb0d4eb45e1e9"
+        }
+      },
+      "hubdown": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-21",
+          "commit": "de958a02f17b46f1e1e2133d7c61af40ce6475b6"
+        }
+      },
+      "mksnapshot": {
+        "previous": [],
+        "current": {
+          "score": 5.6,
+          "date": "2025-07-21",
+          "commit": "1aeaa930c3930501c45a24c726302b02878acf04"
+        }
+      },
+      "forge": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-21",
+          "commit": "35e7b9cd58cf0923dde58f94f477b09b5597f5ae"
+        }
+      },
+      "apps": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2025-07-21",
+          "commit": "3f3928502106a76536e6a2a0e3c627f6e1316e7b"
+        }
+      },
+      "windows-installer": {
+        "previous": [
+          {
+            "score": 4.8,
+            "date": "2025-07-21",
+            "commit": "1ccd266a0a529eb18f226bb92df69ba160a7ce2e"
+          }
+        ],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-28",
+          "commit": "1ccd266a0a529eb18f226bb92df69ba160a7ce2e"
+        }
+      },
+      "electron-api-demos": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "26b3d1d57adc0cc1ef505cc84bceadcb51a4987c"
+        }
+      },
+      "electron-userland-reports": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "9caa8ef2ad5bf91a6bf6d9238e8768684cda528f"
+        }
+      },
+      "i18n": {
+        "previous": [],
+        "current": {
+          "score": 3.5,
+          "date": "2025-07-21",
+          "commit": "b5831481c16a6e46c903c3dae849440f030171ef"
+        }
+      },
+      "electron-docs-linter": {
+        "previous": [],
+        "current": {
+          "score": 1.5,
+          "date": "2025-07-21",
+          "commit": "a875477ef310b86f9ba18d45ac8944ec16d6776b"
+        }
+      },
+      "fiddle": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-21",
+          "commit": "7e58cbe804715260a833fcf491ac90c4bf7a1fd8"
+        }
+      },
+      "build-tools-installer": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-21",
+          "commit": "b30530ca36887d6f81eb6739375ad437c4c7e8c6"
+        }
+      },
+      "symbolicate-mac": {
+        "previous": [
+          {
+            "score": 5.8,
+            "date": "2025-07-21",
+            "commit": "8ffa03dac4d62d7c1e021185f92730616bc65490"
+          }
+        ],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-28",
+          "commit": "8ffa03dac4d62d7c1e021185f92730616bc65490"
+        }
+      },
+      "algolia-indices": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "828b77c853ba575aff4963090f4256bedbed4bd3"
+        }
+      },
+      "electron-api-historian": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-21",
+          "commit": "00b608d839076da498cdbfc7569f115be5d1ec24"
+        }
+      },
+      "electron-quick-start-typescript": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-21",
+          "commit": "eb58abdbd1dd8cb0d2df9608fccf12ad989a189b"
+        }
+      },
+      "docs-parser": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-21",
+            "commit": "d7720dd9d15006db877e504d81e8362bc224482b"
+          }
+        ],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-28",
+          "commit": "d7720dd9d15006db877e504d81e8362bc224482b"
+        }
+      },
+      "remote": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-07-21",
+          "commit": "30fb1618dc6c65a9181f13b64f2cdb6903707b3d"
+        }
+      },
+      "update-electron-app": {
+        "previous": [
+          {
+            "score": 5.6,
+            "date": "2025-07-21",
+            "commit": "a4ac7ddab543a3266e597363d2b73cc838536bd4"
+          }
+        ],
+        "current": {
+          "score": 5.5,
+          "date": "2025-07-28",
+          "commit": "a4ac7ddab543a3266e597363d2b73cc838536bd4"
+        }
+      },
+      "search-with-your-keyboard": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "5c79ad08f857198667f2ba76679233e4d8e82da0"
+        }
+      }
+    }
+  }
+}

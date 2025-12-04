@@ -1,0 +1,20 @@
+{
+  "github.com": {
+    "eslint": {
+      "included": [
+        "eslint",
+        "doctrine",
+        "typescript-eslint-parser",
+        "generator-eslint",
+        "eslint-tester",
+        "eslint-transforms",
+        "github-action",
+        "eslint-visitor-keys",
+        "eslint-scope",
+        "eslint-release",
+        "eslintrc"
+      ],
+      "excluded": []
+    }
+  }
+}

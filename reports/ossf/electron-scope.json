@@ -1,0 +1,39 @@
+{
+  "github.com": {
+    "electron": {
+      "included": [
+        "electron",
+        "rcedit",
+        "node-minidump",
+        "node-rcedit",
+        "node-chromium-pickle-js",
+        "chromedriver",
+        "asar",
+        "asar-require",
+        "get",
+        "electron-docs",
+        "electron-api-docs",
+        "apps",
+        "windows-installer",
+        "electron-api-demos",
+        "electron-docs-linter",
+        "forge",
+        "mksnapshot",
+        "electron-userland-reports",
+        "i18n",
+        "hubdown",
+        "electron-quick-start-typescript",
+        "electron-api-historian",
+        "update-electron-app",
+        "fiddle",
+        "algolia-indices",
+        "search-with-your-keyboard",
+        "docs-parser",
+        "build-tools-installer",
+        "symbolicate-mac",
+        "remote"
+      ],
+      "excluded": []
+    }
+  }
+}

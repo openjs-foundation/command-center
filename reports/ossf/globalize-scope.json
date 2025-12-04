@@ -1,0 +1,11 @@
+{
+  "github.com": {
+    "globalizejs": {
+      "included": [
+        "globalize",
+        "globalize-compiler"
+      ],
+      "excluded": []
+    }
+  }
+}

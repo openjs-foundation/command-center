@@ -1,0 +1,30 @@
+{
+  "github.com": {
+    "jquery": {
+      "included": [
+        "jquery-wp-content",
+        "esprima",
+        "testswarm",
+        "jquery-ui",
+        "sizzle",
+        "jquery-mousewheel",
+        "jquery-color",
+        "learn.jquery.com",
+        "jquery",
+        "api.jquery.com",
+        "grunt-jquery-content",
+        "jquery-migrate",
+        "jquery-simulate",
+        "download.jqueryui.com",
+        "jquery-license",
+        "jquery-dist",
+        "eslint-config-jquery"
+      ],
+      "excluded": []
+    },
+    "jquery-archive": {
+      "included": [],
+      "excluded": []
+    }
+  }
+}

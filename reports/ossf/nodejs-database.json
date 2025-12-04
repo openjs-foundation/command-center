@@ -1,0 +1,358 @@
+{
+  "github.com": {
+    "nodejs": {
+      "nodejs.org": {
+        "previous": [],
+        "current": {
+          "score": 6.9,
+          "date": "2025-07-25T15:08:15Z",
+          "commit": "823a01890f2a2c67660160918e477bb1012b63f6"
+        }
+      },
+      "nan": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-14",
+          "commit": "675cefebca42410733da8a454c8d9391fcebfbc2"
+        }
+      },
+      "build": {
+        "previous": [],
+        "current": {
+          "score": 6.3,
+          "date": "2025-07-14",
+          "commit": "93e882a62275567a0f1405f5ff70759184e0b30f"
+        }
+      },
+      "node": {
+        "previous": [],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-25T15:15:55Z",
+          "commit": "7d6ce7765ca5cae13422fe8cbb82dff4dddd270d"
+        }
+      },
+      "readable-stream": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-14",
+          "commit": "88df21041dc26c210fab3e074ab6bb681a604b8e"
+        }
+      },
+      "node-gyp": {
+        "previous": [
+          {
+            "score": 5.1,
+            "date": "2025-07-14",
+            "commit": "0e656322c1e94041331ab3b01bf66c2ef9bd6ead"
+          }
+        ],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-21",
+          "commit": "3df8789a9aa73c60707eec8f02f4e926491d6102"
+        }
+      },
+      "changelog-maker": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-14",
+          "commit": "5a97713ef473bd39ea3dff1a022b674556c284b7"
+        }
+      },
+      "docker-node": {
+        "previous": [],
+        "current": {
+          "score": 7.3,
+          "date": "2025-07-19T12:43:43Z",
+          "commit": "4adafb930bf239b610fa37c4f691bbf98dd65578"
+        }
+      },
+      "diagnostics": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2024-03-19",
+          "commit": "adab8d62aca9e47928570c29e7e5908a0f825039"
+        }
+      },
+      "Release": {
+        "previous": [],
+        "current": {
+          "score": 6.8,
+          "date": "2025-07-14",
+          "commit": "755d5821ca9454b91d83f51736b4dddbd7a2600c"
+        }
+      },
+      "security-wg": {
+        "previous": [],
+        "current": {
+          "score": 8,
+          "date": "2025-07-22T14:01:37Z",
+          "commit": "aa77a6e58449e7e381593f4c15b4b364f519cebe"
+        }
+      },
+      "node-addon-api": {
+        "previous": [],
+        "current": {
+          "score": 8.8,
+          "date": "2025-07-22T07:29:47Z",
+          "commit": "6babc960154752f686a7dca8e712991a976a754b"
+        }
+      },
+      "nodejs-nightly-builder": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-14",
+          "commit": "00c8135102b0e272ed1d8950845a5412cc9bc237"
+        }
+      },
+      "node-v8": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-14",
+          "commit": "2e1f557df07e5f89aaad4e0b2f60f1e6c4516251"
+        }
+      },
+      "nodejs-dist-indexer": {
+        "previous": [],
+        "current": {
+          "score": 4.4,
+          "date": "2025-07-14",
+          "commit": "7dea933b4d0cbff8e9c6d189271a1f2350a255a9"
+        }
+      },
+      "citgm": {
+        "previous": [
+          {
+            "score": 5.1,
+            "date": "2025-07-14",
+            "commit": "79167b09c28bb8a81ad824f8c48d8c85a7cac010"
+          }
+        ],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-21",
+          "commit": "79167b09c28bb8a81ad824f8c48d8c85a7cac010"
+        }
+      },
+      "TSC": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-14",
+          "commit": "13b5fc46c2314bb316264e85b6b7180a849e4892"
+        }
+      },
+      "tap2junit": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-14",
+          "commit": "0601e2df056c9a6625eba78c627eab405d09caa8"
+        }
+      },
+      "core-validate-commit": {
+        "previous": [],
+        "current": {
+          "score": 4.5,
+          "date": "2025-07-14",
+          "commit": "4556b7ced175f8802ef32a0cb1af273e9bab5c24"
+        }
+      },
+      "llnode": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2025-07-14",
+          "commit": "de1f01d70a5c58111dd873d340f898023e4e8fe6"
+        }
+      },
+      "undici": {
+        "previous": [
+          {
+            "score": 8.2,
+            "date": "2025-07-24T16:41:48Z",
+            "commit": "b7513d4df62e9d1c1ecc34c3a418bd402e3c8432"
+          }
+        ],
+        "current": {
+          "score": 8.1,
+          "date": "2025-08-01T09:52:29Z",
+          "commit": "431dfdc693df0a15f2d5a5a3933e421c8459a74d"
+        }
+      },
+      "meeting-picker": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2025-07-14",
+          "commit": "a2ad374b844dffc54986b48c5e9bd53544046e21"
+        }
+      },
+      "llhttp": {
+        "previous": [],
+        "current": {
+          "score": 8.2,
+          "date": "2025-07-22T07:30:09Z",
+          "commit": "eaa71735458a020614b3898d8d97fc9091399594"
+        }
+      },
+      "nodejs-latest-linker": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-14",
+          "commit": "371c586c7b245689a97ef6f6757404a80c318f75"
+        }
+      },
+      "string_decoder": {
+        "previous": [],
+        "current": {
+          "score": 4.3,
+          "date": "2025-07-14",
+          "commit": "1f29dd715a6c829da89e869af7dafc231c20ed9f"
+        }
+      },
+      "package-maintenance": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-14",
+          "commit": "fe7cccac6f9a8e0628cb3fe0173c6822240e5eb8"
+        }
+      },
+      "lts-schedule": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-07-14",
+          "commit": "eab9ef75103b4f2741f995d2eb69bb3e0f8ad135"
+        }
+      },
+      "llparse": {
+        "previous": [
+          {
+            "score": 6.3,
+            "date": "2025-07-14",
+            "commit": "1c1465134945630c5b91c847f37b661cb3a617b7"
+          }
+        ],
+        "current": {
+          "score": 6.1,
+          "date": "2025-07-21",
+          "commit": "1c1465134945630c5b91c847f37b661cb3a617b7"
+        }
+      },
+      "official-images": {
+        "previous": [],
+        "current": {
+          "score": 4.6,
+          "date": "2025-07-14",
+          "commit": "9e49b7d2201238df6457a446a2573cd2fc7fa189"
+        }
+      },
+      "node-core-utils": {
+        "previous": [
+          {
+            "score": 6.4,
+            "date": "2025-07-14",
+            "commit": "0bafa24deb0cb451c6dae44d3193c212fd03cb4d"
+          }
+        ],
+        "current": {
+          "score": 6.5,
+          "date": "2025-07-21",
+          "commit": "fb309d96a2def7a9757dca32673636ad8aeb9986"
+        }
+      },
+      "doc-kit": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2025-07-25T15:19:59Z",
+          "commit": "f62339897034404e0efdd3ac79feae9263651cd3"
+        }
+      },
+      "amaro": {
+        "previous": [
+          {
+            "score": 6.9,
+            "date": "2025-07-22T07:30:09Z",
+            "commit": "42c13ed1d9892aeb5ef3b4d0a790b5e15fa72aff"
+          }
+        ],
+        "current": {
+          "score": 7,
+          "date": "2025-07-31T08:31:02Z",
+          "commit": "55bb450284cbaa1fa8431ee3643a33143266b16c"
+        }
+      },
+      "corepack": {
+        "previous": [
+          {
+            "score": 5.2,
+            "date": "2025-07-14",
+            "commit": "15498ddb9ac717d3ea52871b8b29884a470424de"
+          }
+        ],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-21",
+          "commit": "0b492c9c97e4b3d5e9a139eeedb931860127b470"
+        }
+      },
+      "gyp-next": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2025-07-14",
+          "commit": "198fcf91682346f74de1a15f1fadfcad9c3ba670"
+        }
+      },
+      "uvwasi": {
+        "previous": [],
+        "current": {
+          "score": 6.6,
+          "date": "2025-07-14",
+          "commit": "392e1f1c1c8a2d2102c9f2e0b9f35959a149d133"
+        }
+      },
+      "node-auto-test": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2023-04-17T09:08:01Z",
+          "commit": "b85939c0dc88670c1d3fbed36b5aba01e2c3f4c7"
+        }
+      },
+      "api-docs-tooling": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2025-07-17T17:50:49Z",
+          "commit": "9436edd798f6b7a96765e7154c16131f2153dd53"
+        }
+      },
+      "web-team": {
+        "previous": [
+          {
+            "score": 7.5,
+            "date": "2025-07-23T21:34:47Z",
+            "commit": "addc5d9159480a6c2dbe80b394f4f7e84c6c116c"
+          }
+        ],
+        "current": {
+          "score": 7.6,
+          "date": "2025-07-31T13:00:17Z",
+          "commit": "6bbe64bff6d92af07eb4e7368f946ff92a1511aa"
+        }
+      }
+    }
+  }
+}

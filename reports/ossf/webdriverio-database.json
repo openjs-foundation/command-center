@@ -1,0 +1,38 @@
+{
+  "github.com": {
+    "webdriverio": {
+      "cucumber-boilerplate": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-07-21",
+          "commit": "805b91fa2fd124795376be28faef8971bd8e7434"
+        }
+      },
+      "webdriverio": {
+        "previous": [],
+        "current": {
+          "score": 5.1,
+          "date": "2025-07-07",
+          "commit": "e0e57ab24871f0d14db1e77b64a88fb6ccc13ada"
+        }
+      },
+      "webdriverio-schematics": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2025-07-07",
+          "commit": "2667a203fb4cb89805077dd77341a03ead257823"
+        }
+      },
+      "expect-webdriverio": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2025-07-21",
+          "commit": "3841052ce055e3fd9dd6cd0513f8111ce60ff289"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "github.com": {
+    "messageformat": {
+      "included": [
+        "properties-loader",
+        "parser",
+        "messageformat",
+        "Jed",
+        "skeletons"
+      ],
+      "excluded": []
+    }
+  }
+}

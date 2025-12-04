@@ -1,0 +1,14 @@
+{
+  "github.com": {
+    "nvm-sh": {
+      "nvm": {
+        "previous": [],
+        "current": {
+          "score": 6.2,
+          "date": "2025-07-21",
+          "commit": "9602f4f959a9f64515fc13af2904a87dc03de685"
+        }
+      }
+    }
+  }
+}

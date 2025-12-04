@@ -1,0 +1,22 @@
+{
+  "github.com": {
+    "interledger": {
+      "rfcs": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2025-07-28",
+          "commit": "f7f54131033cd8dbf7ff15953f58337a0a03fa9f"
+        }
+      },
+      "jsdoc-template": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-28",
+          "commit": "0e9e796c73e411858c6def5596ab2dc392eb321b"
+        }
+      }
+    }
+  }
+}

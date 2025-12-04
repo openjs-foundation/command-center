@@ -1,0 +1,10 @@
+{
+  "github.com": {
+    "loopbackio": {
+      "included": [
+        "strong-error-handler"
+      ],
+      "excluded": []
+    }
+  }
+}

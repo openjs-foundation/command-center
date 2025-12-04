@@ -1,0 +1,46 @@
+{
+  "github.com": {
+    "moment": {
+      "moment-cldr": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-07-21",
+          "commit": "11c5590d561e6a8bb45e3d664ba46d99b7bf7422"
+        }
+      },
+      "moment": {
+        "previous": [],
+        "current": {
+          "score": 2.8,
+          "date": "2025-07-21",
+          "commit": "18aba135ab927ffe7f868ee09276979bed6993a6"
+        }
+      },
+      "moment-timezone": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2025-07-21",
+          "commit": "92c6a36c9d2f28658d3f122839022aacca56a9ef"
+        }
+      },
+      "momentjs.com": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-07-21",
+          "commit": "c133e6339ba7c929e718d38845458b64438ef3fe"
+        }
+      },
+      "luxon": {
+        "previous": [],
+        "current": {
+          "score": 4,
+          "date": "2025-07-21",
+          "commit": "1337c7bdd64ff1546e43c606812f557f76c3e702"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "github.com": {
+    "NativeScript": {
+      "included": [
+        "nativescript-cli",
+        "NativeScript"
+      ],
+      "excluded": [
+        "karma-nativescript-launcher",
+        "nativescript-angular",
+        "sample-Groceries",
+        "nativescript-background-http",
+        "nativescript-marketplace-demo",
+        "nativescript-plugin-appcompat",
+        "nativescript-plugin-google-play-services",
+        "push-plugin",
+        "nativescript-imagepicker",
+        "nativescript-dev-babel",
+        "nativescript-unit-test-runner",
+        "nativescript-hook",
+        "nativescript-dev-typescript",
+        "nativescript-dev-xmlxsd",
+        "nativescript-dev-coffeescript",
+        "nativescript-dev-jade",
+        "plist-merge-patch",
+        "nativescript-geolocation",
+        "nativescript-dev-less",
+        "nativescript-fresco",
+        "acra-telerik-analytics",
+        "nativescript-dev-webpack",
+        "theme",
+        "nativescript-sdk-examples-ng",
+        "nativescript-dev-appium",
+        "nativescript-doctor",
+        "nativescript-camera",
+        "nativescript-googlemaps",
+        "nativescript-app-encryption",
+        "ios-mobileprovision-finder",
+        "nativescript-facebook",
+        "worker-loader",
+        "mobile-devices-controller",
+        "schematics-executor",
+        "nativescript-dev-debugging",
+        "nativescript-picker",
+        "nativescript-app-templates",
+        "nativescript-brightness",
+        "nativescript-datetimepicker",
+        "nativescript-dev-xcode",
+        "plugins",
+        "nativescript-remote-builds",
+        "nativescript-ui-charts",
+        "canvas",
+        "plugin-tools",
+        "capacitor",
+        "docs"
+      ]
+    }
+  }
+}

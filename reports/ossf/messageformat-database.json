@@ -1,0 +1,46 @@
+{
+  "github.com": {
+    "messageformat": {
+      "skeletons": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2025-07-21",
+          "commit": "ca5d71edffcbe74bd6e6cd8dd1581e463206492f"
+        }
+      },
+      "parser": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "ba5da322ab8d7b49696cd9dbe73abb2225510972"
+        }
+      },
+      "messageformat": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2025-07-21",
+          "commit": "54023d59060eac19cfc7cc5d0c1359d4d73b11a5"
+        }
+      },
+      "properties-loader": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "6e4ae8952a347b9488fcd5e7215cc5b4bdb8e53d"
+        }
+      },
+      "Jed": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-07-21",
+          "commit": "351c47d5c57c5c81e418414c53ca84075c518edb"
+        }
+      }
+    }
+  }
+}

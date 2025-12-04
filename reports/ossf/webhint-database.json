@@ -1,0 +1,30 @@
+{
+  "github.com": {
+    "webhintio": {
+      "artwork": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-07-21",
+          "commit": "4b6d0bc85ba8b6a20bd50dc4cfa2218d869fc6b9"
+        }
+      },
+      "hint": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-07-21",
+          "commit": "76264f7733c74f3f0a9d94652fe1cd6a60ea9be9"
+        }
+      },
+      "markdown-link-validator": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-07-21",
+          "commit": "e06245558e2ac3007a1ba15d815e995d5fc39ba3"
+        }
+      }
+    }
+  }
+}
